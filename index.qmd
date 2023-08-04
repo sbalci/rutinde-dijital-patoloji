@@ -22,3 +22,14 @@ When you click the **Render** button a presentation will be generated that inclu
 ```{r}
 1 + 1
 ```
+
+
+
+## Eğitim
+
+
+
+<iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height = "100%"></iframe>
+
+
+
