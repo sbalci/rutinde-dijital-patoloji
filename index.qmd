@@ -1,35 +1,81 @@
 ---
-title: "Rutinde Dijital Patoloji Zorluklar ve Kolaylıklar"
+title: "Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar"
 author: "Serdar Balcı"
-format: revealjs
+format: 
+  revealjs:
+    scrollable: true
 ---
 
-## Quarto
+## Önyargılarımı paylaşıyorum 
 
-Quarto enables you to weave together content and executable code into a
-finished presentation. To learn more about Quarto presentations see
-<https://quarto.org/docs/presentations/>.
+## Dijital Patoloji Nedir Ki? 
 
-## Bullets
 
-When you click the **Render** button a document will be generated that
-includes:
 
--   Content authored with markdown
--   Output from executable code
+## Dijital Patoloji Nerede Kullanılıyor? 
 
-## Code
+- Eğitim
+- Araştırma
+- Konsültasyon
+  - Frozen 
+- Rutin Tanı 
 
-When you click the **Render** button a presentation will be generated
-that includes both content and the output of embedded code. You can
-embed code like this:
 
-```{r}
-1 + 1
-```
+### Araştırma
 
-## Eğitim
+
+- Scanner olmadan dijital patoloji mi olurmuş?
+- Journal of Path Informatics yayını
+- TCGA
+- cBioPortal
+
+
+### Eğitim
 
 <iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="100%">
 
 </iframe>
+
+### Konsültasyon
+
+
+## Ön yargılar bitti. Şimdi basamak basamak laboratuvarda dijital patolojiye geçelim. 
+
+## Laboratuvar
+
+### Eski Analitikler, Yeni Preanalitikler
+
+### Barkod, Karekod, Datamatrix
+
+### Makroskopi
+
+### Kesit
+
+### Kapama 
+
+### Temizlik
+
+#### Doku sanılan artefaktlar
+
+
+#### Odaklanma sorunu
+
+
+### Hastane BYS, Laboratuvar BYS, PACS, Depo, Arşiv
+
+## Patolog
+
+### Ekran
+
+### Kas hafızası
+
+### Not yazma
+
+### Vakanın tümü tarandı mı?
+
+### Lamın tümü tarandı mı?
+
+
+## Araştırma için Dijital Görüntüler Nasıl Hazırlanır 
+
+
