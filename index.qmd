@@ -1,81 +1,49 @@
 ---
-title: "Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar"
-author: "Serdar Balcı"
+title: "Rutinde Dijital Patoloji"
+subtitle: "Zorluklar ve Kolaylıklar"
+author:
+   - name: "Serdar Balcı"
+     affiliation: "Memorial Patoloji"
+date: last-modified
+footer: "[Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar](https://www.serdarbalci.com/)"
+logo: "./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png"
+editor: source
 format: 
   revealjs:
     scrollable: true
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+    chalkboard: true
+    preview-links: false
+    # revealjs-plugins:
+    #   - fullscreen
+  # pptx: default
+  # beamer: default
+execute:
+  echo: true
+  output: asis
+  freeze: auto
+# cache: true
+title-slide-attributes:
+    data-background-image: ./media/memorial-logo.gif
+    data-background-size: cover
+    data-background-opacity: "0.05"
+    data-background-video-loop: true
 ---
 
-## Önyargılarımı paylaşıyorum 
 
-## Dijital Patoloji Nedir Ki? 
+{{< include dijital-patoloji-nedir.qmd >}}
 
+{{< include dijital-patoloji-onyargi.qmd >}}
 
+{{< include laboratuvar.qmd >}}
 
-## Dijital Patoloji Nerede Kullanılıyor? 
+{{< include patolog.qmd >}}
 
-- Eğitim
-- Araştırma
-- Konsültasyon
-  - Frozen 
-- Rutin Tanı 
+{{< include yapayzeka.qmd >}}
 
+{{< include arastirma.qmd >}}
 
-### Araştırma
-
-
-- Scanner olmadan dijital patoloji mi olurmuş?
-- Journal of Path Informatics yayını
-- TCGA
-- cBioPortal
-
-
-### Eğitim
-
-<iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="100%">
-
-</iframe>
-
-### Konsültasyon
-
-
-## Ön yargılar bitti. Şimdi basamak basamak laboratuvarda dijital patolojiye geçelim. 
-
-## Laboratuvar
-
-### Eski Analitikler, Yeni Preanalitikler
-
-### Barkod, Karekod, Datamatrix
-
-### Makroskopi
-
-### Kesit
-
-### Kapama 
-
-### Temizlik
-
-#### Doku sanılan artefaktlar
-
-
-#### Odaklanma sorunu
-
-
-### Hastane BYS, Laboratuvar BYS, PACS, Depo, Arşiv
-
-## Patolog
-
-### Ekran
-
-### Kas hafızası
-
-### Not yazma
-
-### Vakanın tümü tarandı mı?
-
-### Lamın tümü tarandı mı?
-
-
-## Araştırma için Dijital Görüntüler Nasıl Hazırlanır 
-
+{{< include tesekkur.qmd >}}
 

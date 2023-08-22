@@ -1,0 +1,25 @@
+# Laboratuvar
+
+## Eski Analitikler, Yeni Preanalitikler
+
+## Barkod, Karekod, Datamatrix
+
+## Makroskopi
+
+## Kesit
+
+## Kapama
+
+## Temizlik
+
+## Doku sanılan artefaktlar
+
+## Odaklanma sorunu
+
+## Hastane BYS, Laboratuvar BYS, PACS, Depo, Arşiv
+
+
+## İş Akışı
+
+
+
