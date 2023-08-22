@@ -1,0 +1,42 @@
+
+## Patolog
+
+## Ekran
+
+## Kas hafızası
+
+:::: {.columns .v-center-container}
+
+
+::: {.column width="50%"}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+:::
+
+::: {.column width="50%"}
+
+{{< video https://www.youtube.com/embed/GFFK-d_Hua8 >}}
+
+:::
+
+::::
+
+
+
+## Not yazma
+
+::: {.r-fit-text}
+lam üzeri
+:::
+
+## Vakanın tümü tarandı mı?
+
+## Lamın tümü tarandı mı?
+
+
+## Çalışma Düzeni
+
+İstediğin zaman, isteiğin yerde çalışabilme 
+Her zaman her yerde çalışma 
+
+
