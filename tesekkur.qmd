@@ -1,10 +1,10 @@
 # Teşekkürler
 
-##
+## 
 
-:::: {.columns .v-center-container}
+::: {.columns .v-center-container}
 ::: {.column width="60%"}
-`r fontawesome::fa("link", fill = fa_fill)` []()
+`r fontawesome::fa("link", fill = fa_fill)` [ ]()
 
 `r fontawesome::fa("twitter", fill = fa_fill)` [\@serdarbalci](https://twitter.com/serdarbalci)
 
@@ -14,17 +14,13 @@
 :::
 
 ::: {.column width="40%"}
-
 ![](images/dan-fire-island-circle.png)
-
 :::
-
-::::
-
+:::
 
 ## Patoloji Atlası
 
-:::: {.columns .v-center-container}
+::: {.columns .v-center-container}
 ::: {.column width="60%"}
 `r fontawesome::fa("link", fill = fa_fill)` [danieldsjoberg.com](https://www.danieldsjoberg.com/)
 
@@ -36,21 +32,14 @@
 :::
 
 ::: {.column width="40%"}
-
 ![](images/dan-fire-island-circle.png)
-
 :::
-
-::::
-
-
-
+:::
 
 ## Slide 3 {visibility="uncounted"}
 
+##  {fullscreen="true"}
 
-## {fullscreen=true}
+<iframe class="stretch" data-src="https://images.patolojiatlasi.com/GBD3/HE.html">
 
-<iframe class="stretch" data-src="https://images.patolojiatlasi.com/GBD3/HE.html"></iframe>
-
-
+</iframe>

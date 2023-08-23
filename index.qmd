@@ -41,6 +41,8 @@ title-slide-attributes:
 
 {{< include patolog.qmd >}}
 
+{{< include sitoloji.qmd >}}
+
 {{< include yapayzeka.qmd >}}
 
 {{< include arastirma.qmd >}}
