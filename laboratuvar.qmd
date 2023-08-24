@@ -6,9 +6,27 @@
 
 ## Makroskopi
 
+
+## Gömme 
+
+Düzenli gömme
+
+Bıçağa göre açılı gömme vs düz gömme 
+
+
 ## Kesit
 
+Kesit kalınlığı
+
+Kesitin merkezde olması
+
+Katlantılar
+
+
 ## Kapama
+
+
+
 
 ## Temizlik
 
@@ -18,8 +36,6 @@
 
 ## Hastane BYS, Laboratuvar BYS, PACS, Depo, Arşiv
 
-
 ## İş Akışı
-
 
 
