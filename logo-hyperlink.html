@@ -1,0 +1,18 @@
+<script type="text/javascript">
+  function hyperlink_logo() {
+    let logo = document.querySelector('img.slide-logo');
+    const logo_cloned = logo.cloneNode(true);
+    const link = document.createElement('a');
+    // -----------------------------------------------------------
+    // set the link for the logo here in `link.href` within quotes
+    link.href = 'https://www.serdarbalci.com/';
+    // -----------------------------------------------------------
+    link.target = '_blank';
+    link.appendChild(logo_cloned);
+    logo.replaceWith(link);
+  };
+  
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    hyperlink_logo();
+  });
+</script>

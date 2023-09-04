@@ -7,6 +7,7 @@ author:
 date: last-modified
 footer: "[Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar](https://www.serdarbalci.com/)"
 logo: "./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png"
+include-after-body: logo-hyperlink.html
 editor: source
 format: 
   revealjs:
