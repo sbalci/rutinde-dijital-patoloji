@@ -1,5 +1,11 @@
 # Dijital Patoloji Nedir Ki?
 
+## Görüntünün Dijitalleştirilmesi - Patolojinin Verileştirilmesi
+
+![](./media/toward-a-total-dataization-of-anatomic-pathology.png)
+Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023. | DOI: 10.1097/PAI.0000000000001145
+
+
 ## Dijital Patoloji Nerede Kullanılıyor?
 
 ::: {.incremental}
