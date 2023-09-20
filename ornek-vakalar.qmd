@@ -1,0 +1,50 @@
+## Örnek vakalar için
+
+
+
+```{r, eval=TRUE, echo=FALSE, include=FALSE, error=TRUE}
+if (!file.exists("./qrcodes/vakalar1.svg")) {
+
+  qrcode_svg <- qrcode::qr_code("https://memorial.patoloji.dev/webinar/")
+
+  qrcode::generate_svg(qrcode = qrcode_svg,
+                       filename = "./qrcodes/vakalar1.svg",
+                       show = FALSE)
+}
+```
+
+
+
+```{r, eval=TRUE, echo=FALSE, include=FALSE, error=TRUE}
+if (!file.exists("./qrcodes/vakalar2.svg")) {
+
+  qrcode_svg <- qrcode::qr_code("https://dijital.patoloji.dev/")
+
+  qrcode::generate_svg(qrcode = qrcode_svg,
+                       filename = "./qrcodes/vakalar2.svg",
+                       show = FALSE)
+}
+```
+
+
+- <https://memorial.patoloji.dev/webinar/>
+- <https://dijital.patoloji.dev/>
+
+
+:::: {.columns}
+
+::: {.column width="50%" .smaller}
+
+
+![](./qrcodes/vakalar1.svg)
+:::
+
+::: {.column width="50%"}
+
+
+![](./qrcodes/vakalar2.svg)
+
+:::
+
+
+::::

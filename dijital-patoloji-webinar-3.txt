@@ -1,3 +1,9 @@
 Dijital Patoloji webinar serisinin üçüncüsü 27 Eylül 2023 Çarşamba online olarak yapılacak. 
 Bu toplantıda, dijital patolojinin rutinde kullanımı, karşılaşılan zorluklar ve kolaylıklardan bahsedeceğim. Konu ile ilgili soru ve yorumlarınızı önden iletbilirsiniz.
 Ayrıca bazı ilginç (ama rutin) vakalardan oluşan bir seri de hazırlıyorum. Bunları bir dijital patoloji tanı arayüzünde görmek isteyenler için paylaşacağım.
+
+
+https://memorial.patoloji.dev/webinar
+
+https://dijital.patoloji.dev/
+

@@ -79,11 +79,11 @@ Custom footer text
 
 ::: {.panel-tabset}
 
-### Tab A
+### Zorluklar
 
 Content for `Tab A`
 
-### Tab B
+### Kolaylıklar
 
 Content for `Tab B`
 

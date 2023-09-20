@@ -8,39 +8,39 @@ date: last-modified
 footer: "[Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar](https://www.serdarbalci.com/)"
 logo: "./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png"
 include-after-body: logo-hyperlink.html
-# editor: source
+editor: source
 format: 
   revealjs:
     scrollable: true
-    # theme: slides.scss
+    theme: slides.scss
     # transition: fade
-    # slide-number: true
-    # show-slide-number: speaker
+    slide-number: true
+    show-slide-number: speaker
     # chalkboard: true
-    # chalkboard: 
-    #   buttons: false
+    chalkboard:
+      buttons: false
     # preview-links: false
     # embed-resources: true
-    # revealjs-plugins:
-      # - fullscreen
-    # include-after-body:
-    #   - text: |
-    #       <script type="text/javascript">
-    #       Reveal.addEventListener('ready', (event) => {
-    #         if (event.indexh === 0) {
-    #           document.querySelector("div.slide-menu-button").style.display = "none";
-    #         } else {
-    #           document.querySelector("div.slide-menu-button").style.display = "block";
-    #         }
-    #       });
-    #       Reveal.addEventListener('slidechanged', (event) => {
-    #         if (event.indexh === 0) {
-    #           document.querySelector("div.slide-menu-button").style.display = "none";
-    #         } else {
-    #           document.querySelector("div.slide-menu-button").style.display = "block";
-    #         }
-    #       });
-    #       </script>
+    revealjs-plugins:
+    - fullscreen
+    include-after-body:
+      - text: |
+          <script type="text/javascript">
+          Reveal.addEventListener('ready', (event) => {
+            if (event.indexh === 0) {
+              document.querySelector("div.slide-menu-button").style.display = "none";
+            } else {
+              document.querySelector("div.slide-menu-button").style.display = "block";
+            }
+          });
+          Reveal.addEventListener('slidechanged', (event) => {
+            if (event.indexh === 0) {
+              document.querySelector("div.slide-menu-button").style.display = "none";
+            } else {
+              document.querySelector("div.slide-menu-button").style.display = "block";
+            }
+          });
+          </script>
 #
   # pptx: default
   # beamer: default
@@ -61,7 +61,6 @@ format:
 ---
 
 
-
 {{< include dijital-patoloji-nedir.qmd >}}
 
 {{< include dijital-patoloji-onyargi.qmd >}}
@@ -70,16 +69,16 @@ format:
 
 {{< include laboratuvar.qmd >}}
 
+{{< include tarama.qmd >}}
+
 {{< include patolog.qmd >}}
 
 {{< include sitoloji.qmd >}}
 
-{{< include tarama.qmd >}}
+<!-- {{< include yapayzeka.qmd >}} -->
 
-{{< include yapayzeka.qmd >}}
-
-{{< include arastirma.qmd >}}
+<!-- {{< include arastirma.qmd >}} -->
 
 {{< include tesekkur.qmd >}}
 
-{{< include ornek-vakalar.qmd >}}
+<!-- {{< include ornek-vakalar.qmd >}} -->

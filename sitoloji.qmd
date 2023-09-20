@@ -2,4 +2,32 @@
 
 ## Preparatın taraması
 
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
 ## Patoloğun taraması
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+

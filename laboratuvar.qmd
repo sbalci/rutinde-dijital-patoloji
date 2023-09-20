@@ -2,12 +2,71 @@
 
 ## Eski Analitikler, Yeni Preanalitikler
 
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+
 ## Barkod, Karekod, Datamatrix
+
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
 
 ## Makroskopi
 
 
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
 ## Gömme {auto-animate="true"}
+
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 
 Düzenli gömme
 
@@ -27,15 +86,117 @@ Katlantılar
 
 
 
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 
 ## Temizlik
 
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
 ## Doku sanılan artefaktlar
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 
 ## Odaklanma sorunu
 
-## Hastane BYS, Laboratuvar BYS, PACS, Depo, Arşiv
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+## Hastane BYS, Laboratuvar BYS
+
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+## PACS, Depo, Arşiv
+
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 
 ## İş Akışı
+
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 
 

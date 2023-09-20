@@ -1,11 +1,54 @@
 ## Tarama cihazı
 
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
 Dizme sırası
 
 Racklardaki Boşluklar
 
 Taramanın durdurulması
 
+
+
 ## Tarama kalitesi nasıl ölçülür?
 
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
 ## Mega kaset
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+
