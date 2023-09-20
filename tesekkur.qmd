@@ -2,8 +2,19 @@
 
 ## 
 
+```{r}
+#| echo: false
+#| cache: false
+
+# fill for font awesome icons
+fa_fill <- "#606060"
+```
+
+
 ::: {.columns .v-center-container}
+
 ::: {.column width="60%"}
+
 `r fontawesome::fa("link", fill = fa_fill)` [ ]()
 
 `r fontawesome::fa("twitter", fill = fa_fill)` [\@serdarbalci](https://twitter.com/serdarbalci)
@@ -11,11 +22,15 @@
 `r fontawesome::fa("linkedin", fill = fa_fill)` [linkedin.com/in/](https://www.linkedin.com/in//)
 
 `r fontawesome::fa("github", fill = fa_fill)` [github.com/sbalci](https://github.com/sbalci/)
+
 :::
 
 ::: {.column width="40%"}
-![](images/dan-fire-island-circle.png)
+
+![](./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png)
+
 :::
+
 :::
 
 ## Patoloji Atlası
@@ -36,10 +51,4 @@
 :::
 :::
 
-## Slide 3 {visibility="uncounted"}
 
-##  {fullscreen="true"}
-
-<iframe class="stretch" data-src="https://images.patolojiatlasi.com/GBD3/HE.html">
-
-</iframe>

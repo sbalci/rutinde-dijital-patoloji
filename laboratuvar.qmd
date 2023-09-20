@@ -7,14 +7,14 @@
 ## Makroskopi
 
 
-## Gömme 
+## Gömme {auto-animate="true"}
 
 Düzenli gömme
 
 Bıçağa göre açılı gömme vs düz gömme 
 
 
-## Kesit
+## Kesit {auto-animate="true"}
 
 Kesit kalınlığı
 

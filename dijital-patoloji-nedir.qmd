@@ -2,9 +2,36 @@
 
 ## Görüntünün Dijitalleştirilmesi - Patolojinin Verileştirilmesi
 
-![](./media/toward-a-total-dataization-of-anatomic-pathology.png)
-Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023. | DOI: 10.1097/PAI.0000000000001145
+::: {.columns}
 
+
+::: {.column width="60%"}
+
+
+![](./media/toward-a-total-dataization-of-anatomic-pathology.png)
+:::
+
+
+::: {.column width="40%"}
+
+![](./media/data_information_knowledge_insight_wisdom.jpg)
+
+
+
+:::
+
+:::
+
+::: {.footer}
+Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023. | DOI: 10.1097/PAI.0000000000001145
+:::
+
+
+## Görüntünün Dijitalleştirilmesi - Patolojinin Verileştirilmesi
+
+- İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
+
+[^1]: Burak Buyrukbilen
 
 ## Dijital Patoloji Nerede Kullanılıyor?
 
@@ -35,7 +62,17 @@ Speaker notes go here.
 
 ## Eğitim
 
+```{=html}
 <iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="100%"> </iframe>
+```
+
+
+## {fullscreen=true}
+
+```{=html}
+<iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="100%"> </iframe>
+```
+
 
 
 ## Konsültasyon

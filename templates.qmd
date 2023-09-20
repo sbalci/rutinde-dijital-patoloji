@@ -1,0 +1,210 @@
+::: {.incremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
+
+
+::: {.nonincremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+contents...
+:::
+
+::: {.column width="60%"}
+contents...
+:::
+
+::::
+
+
+## Slide Title {.smaller}
+
+## Slide Title {.scrollable}
+
+
+
+
+## Slide with speaker notes
+
+Slide content
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+
+## Slide Title
+
+Slide content
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
+
+
+
+## Slide Title
+
+- Green ^[A footnote]
+- Brown
+- Purple
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
+
+
+
+## Slide Title
+
+Slide content
+
+::: footer
+Custom footer text
+:::
+
+
+
+
+::: {.panel-tabset}
+
+### Tab A
+
+Content for `Tab A`
+
+### Tab B
+
+Content for `Tab B`
+
+:::
+
+
+## Slide Title {background-color="aquamarine"}
+
+
+
+
+
+![](image1.png){.absolute top=200 left=0 width="350" height="300"}
+
+![](image2.png){.absolute top=50 right=50 width="450" height="250"}
+
+![](image3.png){.absolute bottom=0 right=50 width="300" height="300"}
+
+
+
+::: {.r-fit-text}
+Big Text
+:::
+
+
+## Slide Title
+
+Here is an image:
+
+![](image.png){.r-stretch}
+
+Some text after the image.
+
+
+## Slide Title {.nostretch}
+
+
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Animating content
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Animating content
+:::
+
+
+
+
+
+::: {.fragment}
+Fade in
+:::
+
+::: {.fragment .fade-out}
+Fade out
+:::
+
+::: {.fragment .highlight-red}
+Highlight red
+:::
+
+::: {.fragment .fade-in-then-out}
+Fade in, then out
+:::
+
+::: {.fragment .fade-up}
+Slide up while fading in
+:::
+
+
+::: {.fragment .fade-in}
+::: {.fragment .highlight-red}
+::: {.fragment .semi-fade-out}
+Fade in > Turn red > Semi fade out
+:::
+:::
+:::
+
+
+
+::: {.fragment fragment-index=3}
+Appears last
+:::
+
+::: {.fragment fragment-index=1}
+Appears first
+:::
+
+::: {.fragment fragment-index=2}
+Appears second
+:::
+
+
+## Slide Title {transition="fade" transition-speed="fast"}
+
+
+## Slide Title {transition="fade-in slide-out"}
+
+
+## Slide Title {visibility="hidden"}
+
+
+## Slide 1
+
+## Slide 2
+
+## Slide 3 {visibility="uncounted"}
+
+
+
+
+## Slide 3 {visibility="uncounted"}
+
+##  {fullscreen="true"}
+
+<iframe class="stretch" data-src="https://images.patolojiatlasi.com/GBD3/HE.html">
+
+</iframe>
+
+

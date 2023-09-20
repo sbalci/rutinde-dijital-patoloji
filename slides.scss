@@ -130,3 +130,12 @@ details>summary {
   align-items: center;
   height: 90%;
 }
+
+/*-- scss:rules --*/
+
+.reveal .slide-number > a[href*='title-slide'] {
+  display: none;
+}
+
+
+
