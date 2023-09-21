@@ -12,7 +12,7 @@ editor: source
 format: 
   revealjs:
     scrollable: true
-    theme: slides.scss
+    theme: [default, slides.scss]
     # transition: fade
     slide-number: true
     show-slide-number: speaker
