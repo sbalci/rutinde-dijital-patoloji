@@ -67,7 +67,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 :::
 
 
-## {fullscreen=true}
+## Patoloji Atlası {fullscreen=true}
 
 ```{=html}
 <iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="150%"> </iframe>
@@ -75,8 +75,8 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-
 ## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+
 
 
 ![](./media/cBioPortal.png)
@@ -84,37 +84,21 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
--   Scanner olmadan dijital patoloji mi olurmuş?
--   Journal of Path Informatics yayını
--   TCGA
--   cBioPortal
+## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
 
+![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
 
 
 ::: {.footer}
-
+Analysis of application of digital image analysis in histopathology quality control. J Pathol Inform. 2023 Jul 3;14:100322. doi: 10.1016/j.jpi.2023.100322.
 :::
-
 
 
 ::: {.notes}
-
 Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, ilgilenecekleri bekliyor.
 - İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
 [^1]: Burak Buyrukbilen
-
 :::
-
-
-
-## Dijital Patoloji Nerede Kullanılıyor?
-
--   Konsültasyon
--   Frozen
--   Eğitim
--   Araştırma
--   Rutin Tanı
-
 
 
 

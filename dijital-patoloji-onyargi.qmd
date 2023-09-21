@@ -1,12 +1,17 @@
 # Dijital Patoloji Nedir?
 
+:::: {.columns}
+::: {.column width="60%"}
+![](./media/dijital-patoloji-vs-dijital-radyoloji.png){height="50%"}
+:::
+::: {.column width="40%"}
 
-![](./media/dijital-patoloji-vs-dijital-radyoloji.png)
+![](./media/patoloji-laboratuvarini-anlama-kilavuzu.jpg){width="40%"}
+:::
+::::
 
-![](./media/patoloji-laboratuvarini-anlama-kilavuzu.jpg)
 
-
-
+# Dijital Patoloji Nedir?
 
 
 ::: {.panel-tabset}

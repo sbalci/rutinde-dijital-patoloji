@@ -128,7 +128,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 :::
 
 
-## {fullscreen=true}
+## Patoloji Atlası {fullscreen=true}
 
 
 ```{=html}
@@ -138,8 +138,8 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-
 ## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+
 
 
 ![](./media/cBioPortal.png)
@@ -147,25 +147,20 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
--   Scanner olmadan dijital patoloji mi olurmuş?
--   Journal of Path Informatics yayını
--   TCGA
--   cBioPortal
+## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
 
+![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
 
 
 ::: {.footer}
-
+Analysis of application of digital image analysis in histopathology quality control. J Pathol Inform. 2023 Jul 3;14:100322. doi: 10.1016/j.jpi.2023.100322.
 :::
 
 
-
 ::: {.notes}
-
 Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, ilgilenecekleri bekliyor.
 - İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
 [^1]: Burak Buyrukbilen
-
 :::
 
 
@@ -173,10 +168,17 @@ Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, 
 ## Dijital Patoloji Nerede Kullanılıyor?
 
 -   Konsültasyon
-    -   Frozen
+-   Frozen
 -   Eğitim
 -   Araştırma
+
+::: {.fragment .highlight-red}
 -   Rutin Tanı
+:::
+
+
+
+
 
 
 
@@ -217,6 +219,19 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 # Dijital Patoloji Nedir?
 
+:::: {.columns}
+::: {.column width="60%"}
+![](./media/dijital-patoloji-vs-dijital-radyoloji.png){height="50%"}
+:::
+::: {.column width="40%"}
+
+![](./media/patoloji-laboratuvarini-anlama-kilavuzu.jpg){width="40%"}
+:::
+::::
+
+
+# Dijital Patoloji Nedir?
+
 
 ::: {.panel-tabset}
 
@@ -237,7 +252,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 
 
-## Örnek vakalar için
+## Rutinden örnekler
 
 
 
@@ -273,6 +288,8 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 # Laboratuvar
 
 ## Eski Analitikler, Yeni Preanalitikler
+
+![](./media/patoloji-is-akisi.png)
 
 
 ::: {.panel-tabset}
