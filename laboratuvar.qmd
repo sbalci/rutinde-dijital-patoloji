@@ -2,6 +2,8 @@
 
 ## Eski Analitikler, Yeni Preanalitikler
 
+![](./media/patoloji-is-akisi.png)
+
 
 ::: {.panel-tabset}
 

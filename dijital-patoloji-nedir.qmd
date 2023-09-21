@@ -13,27 +13,7 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 ## Dijital Patoloji Nerede Kullanılıyor? - Konsültasyon 
 
 
-::::: {.columns}
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
-
-:::: 
-
-
-
-:::: {.column width="60%"}
-
 ![](./media/mikroskop-atacman.JPG)
-
-::::
-
-
-
-::::: 
 
 
 
@@ -43,37 +23,29 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji Nerede Kullanılıyor? - Frozen
 
+:::: {.columns}
 
-::::: {.columns}
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
-
-:::: 
-
-
-
-:::: {.column width="60%"}
+::: {.column width="50%"}
 
 ![](./media/frozen-1.jpg)
 
+::: 
+
+
+::: {.column width="50%"}
+
 ![](./media/frozen-2.jpg)
 
-::::
+:::
 
-
-
-::::: 
+:::: 
 
 
 
 ::: {.notes}
-Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar için cep telefonlarıyla kullanabiliyoruz.
+Frozen
 :::
 
 
@@ -81,35 +53,13 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji Nerede Kullanılıyor? - Eğitim 
 
-
-
-::::: {.columns}
-
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
--   Eğitim
-
-
-:::: 
-
-
-:::: {.column width="60%"}
 
 ```{=html}
-<iframe src="https://www.patolojiatlasi.com/wsi.html" width="100%" height="500px"> </iframe>
+<iframe src="https://www.patolojiatlasi.com/wsi.html" width="100%" height="600px"> </iframe>
 ```
 
-
-::::
-
-
-::::: 
 
 
 ::: {.notes}
@@ -126,33 +76,13 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
 
 
+![](./media/cBioPortal.png)
 
-::::: {.columns}
+![](./media/TCGA.png)
 
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
--   Eğitim
-
-::: {.fragment .fade-in}
-::: {.fragment .highlight-red}
-
--   Araştırma
-
-:::
-:::
-
-
-:::: 
-
-
-:::: {.column width="60%"}
 
 -   Scanner olmadan dijital patoloji mi olurmuş?
 -   Journal of Path Informatics yayını
@@ -161,10 +91,9 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-::::
+::: {.footer}
 
-::::: 
-
+:::
 
 
 
@@ -181,7 +110,7 @@ Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, 
 ## Dijital Patoloji Nerede Kullanılıyor?
 
 -   Konsültasyon
-    -   Frozen
+-   Frozen
 -   Eğitim
 -   Araştırma
 -   Rutin Tanı
