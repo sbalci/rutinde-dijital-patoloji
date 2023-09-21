@@ -3,11 +3,44 @@
 
 ## Dijital Patoloji Nedir Ki?
 
-Scanner resmi
+![](./media/scanner-room.jpg)
 
 ::: {.notes}
 Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
 :::
+
+
+## Dijital Patoloji Nerede Kullanılıyor? - Konsültasyon 
+
+
+::::: {.columns}
+
+:::: {.column width="40%"}
+
+
+-   Konsültasyon
+    -   Frozen
+
+:::: 
+
+
+
+:::: {.column width="60%"}
+
+![](./media/mikroskop-atacman.JPG)
+
+::::
+
+
+
+::::: 
+
+
+
+::: {.notes}
+Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar için cep telefonlarıyla kullanabiliyoruz.
+:::
+
 
 
 ## Dijital Patoloji Nerede Kullanılıyor?
@@ -27,7 +60,9 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 
 :::: {.column width="60%"}
 
-cep telefonu ataçman resmi
+![](./media/frozen-1.jpg)
+
+![](./media/frozen-2.jpg)
 
 ::::
 
@@ -40,6 +75,8 @@ cep telefonu ataçman resmi
 ::: {.notes}
 Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar için cep telefonlarıyla kullanabiliyoruz.
 :::
+
+
 
 
 
@@ -64,10 +101,13 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 :::: {.column width="60%"}
 
-Patoloji Atlası
-WSI sayfası
+```{=html}
+<iframe src="https://www.patolojiatlasi.com/wsi.html" width="100%" height="500px"> </iframe>
+```
+
 
 ::::
+
 
 ::::: 
 
@@ -99,7 +139,15 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 -   Konsültasyon
     -   Frozen
 -   Eğitim
+
+::: {.fragment .fade-in}
+::: {.fragment .highlight-red}
+
 -   Araştırma
+
+:::
+:::
+
 
 :::: 
 

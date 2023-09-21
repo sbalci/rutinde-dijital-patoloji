@@ -22,7 +22,7 @@ format:
     # preview-links: false
     # embed-resources: true
     revealjs-plugins:
-    - fullscreen
+      - fullscreen
     include-after-body:
       - text: |
           <script type="text/javascript">
@@ -41,23 +41,20 @@ format:
             }
           });
           </script>
-#
-  # pptx: default
-  # beamer: default
-# keep-md: true
-# execute:
-#   echo: false  
-#   warning: false
-#   output: asis
-#   freeze: auto
-# cache: true
+keep-md: true
+execute:
+  # echo: false
+  warning: false
+  output: asis
+  # freeze: auto
+cache: true
 # footnotes-hover: true
 # controls: auto
-# title-slide-attributes:
-#     data-background-image: ./media/memorial-logo.gif
-#     data-background-size: cover
-#     data-background-opacity: "0.05"
-#     data-background-video-loop: true
+title-slide-attributes:
+    data-background-image: ./media/memorial-logo.gif
+    data-background-size: cover
+    data-background-opacity: "0.05"
+    data-background-video-loop: true
 ---
 
 

@@ -1,2 +1,21 @@
-# Ön yargılar bitti. Şimdi basamak basamak laboratuvarda dijital patolojiye geçelim.
+# Dijital Patoloji Nedir?
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+- Alan yeni. 
+- Çok fazla ön yargı var. 
+
+
+### Kolaylıklar
+
+- Alan yeni. 
+- Yapılabilecek ve öğrenilecek çok şey var. 
+- Çoğu kişi bilgi ve deneyimini paylaşmaya hazır. 
+- Ortak yapılacak çok şey var. 
+
+:::
+
 

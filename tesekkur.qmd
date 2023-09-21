@@ -101,14 +101,14 @@ fa_fill <- "#606060"
 ## 
 
 
-:::: {.columns .v-center-container}
+:::: {.columns}
 
 
 ::: {.column width="60%"}
 `Örnek Rutin Vakalar` 
 
-- [memorial.patoloji.dev/webinar]()
-- [dijital.patoloji.dev]()
+- [memorial.patoloji.dev/webinar](https://memorial.patoloji.dev/webinar/)
+- [dijital.patoloji.dev](https://dijital.patoloji.dev/)
 
 :::
 
@@ -120,22 +120,18 @@ fa_fill <- "#606060"
 :::: 
 
 
-:::: {.columns .v-center-container}
+:::: {.columns}
 
 
 ::: {.column width="33%"}
 
-
 ![](./qrcodes/vakalar1.svg){width="50%"} 
-
 
 :::
 
 
 
 ::: {.column width="33%"}
-
-
 
 ![](./qrcodes/vakalar2.svg){width="50%"}
 
@@ -144,7 +140,6 @@ fa_fill <- "#606060"
 
 
 ::: {.column width="33%"}
-
 
 ![](./qrcodes/patolojiatlasi.svg){width="50%"}
 
