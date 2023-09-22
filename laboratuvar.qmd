@@ -1,19 +1,16 @@
 # Laboratuvar
 
-## Eski Analitikler, Yeni Preanalitikler
-
-![](./media/patoloji-is-akisi.png)
-
+## İş Akışı
 
 ::: {.panel-tabset}
 
-### Zorluklar
+### Eski Analitikler
 
-Content for `Tab A`
+![](./media/patoloji-is-akisi.png)
 
-### Kolaylıklar
+### Yeni Preanalitikler
 
-Content for `Tab B`
+![](./media/patoloji-is-akisi.png)
 
 :::
 

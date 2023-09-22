@@ -10,7 +10,22 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 :::
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Konsültasyon 
+## Dijital Patoloji İçin Tarayıcı Şart mı? Dijital Patoloji Nerede Kullanılıyor?
+
+![](./media/scanner-room.jpg)
+
+::: {.notes}
+Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
+:::
+
+
+
+
+
+
+
+
+## Dijital Patoloji - Konsültasyon 
 
 
 ![](./media/mikroskop-atacman.JPG)
@@ -23,7 +38,7 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Frozen
+## Dijital Patoloji - Frozen
 
 :::: {.columns}
 
@@ -53,7 +68,7 @@ Frozen
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Eğitim 
+## Dijital Patoloji - Eğitim 
 
 
 ```{=html}
@@ -75,7 +90,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+## Dijital Patoloji - Araştırma
 
 
 
@@ -84,7 +99,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+## Dijital Patoloji - Araştırma
 
 ![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
 
@@ -98,6 +113,23 @@ Analysis of application of digital image analysis in histopathology quality cont
 Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, ilgilenecekleri bekliyor.
 - İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
 [^1]: Burak Buyrukbilen
+:::
+
+
+
+## Dijital Patoloji
+
+
+::: {.panel-tabset}
+
+### Tarayıcı Şart mı?
+
+Kullanım ihtiyacınıza göre olmasa da olur.
+
+### Tarayıcı Olunca Dijital Patolojiye Geçmiş Olur muyuz? 
+
+Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
+
 :::
 
 
@@ -127,11 +159,5 @@ Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, 
 
 ::: {.footer}
 Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023. | DOI: 10.1097/PAI.0000000000001145
-:::
-
-
-
-::: {.notes}
-Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
 :::
 
