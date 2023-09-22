@@ -125,7 +125,7 @@ fa_fill <- "#606060"
 
 ::: {.column width="33%"}
 
-![](./qrcodes/vakalar1.svg){width="50%"} 
+![](./qrcodes/vakalar1.svg){width="70%"} 
 
 :::
 
@@ -133,7 +133,7 @@ fa_fill <- "#606060"
 
 ::: {.column width="33%"}
 
-![](./qrcodes/vakalar2.svg){width="50%"}
+![](./qrcodes/vakalar2.svg){width="70%"}
 
 :::
 
@@ -141,7 +141,7 @@ fa_fill <- "#606060"
 
 ::: {.column width="33%"}
 
-![](./qrcodes/patolojiatlasi.svg){width="50%"}
+![](./qrcodes/patolojiatlasi.svg){width="70%"}
 
 :::
 

@@ -13,27 +13,7 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 ## Dijital Patoloji Nerede Kullanılıyor? - Konsültasyon 
 
 
-::::: {.columns}
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
-
-:::: 
-
-
-
-:::: {.column width="60%"}
-
 ![](./media/mikroskop-atacman.JPG)
-
-::::
-
-
-
-::::: 
 
 
 
@@ -43,37 +23,29 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji Nerede Kullanılıyor? - Frozen
 
+:::: {.columns}
 
-::::: {.columns}
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
-
-:::: 
-
-
-
-:::: {.column width="60%"}
+::: {.column width="50%"}
 
 ![](./media/frozen-1.jpg)
 
+::: 
+
+
+::: {.column width="50%"}
+
 ![](./media/frozen-2.jpg)
 
-::::
+:::
 
-
-
-::::: 
+:::: 
 
 
 
 ::: {.notes}
-Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar için cep telefonlarıyla kullanabiliyoruz.
+Frozen
 :::
 
 
@@ -81,35 +53,13 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji Nerede Kullanılıyor? - Eğitim 
 
-
-
-::::: {.columns}
-
-
-:::: {.column width="40%"}
-
-
--   Konsültasyon
-    -   Frozen
--   Eğitim
-
-
-:::: 
-
-
-:::: {.column width="60%"}
 
 ```{=html}
-<iframe src="https://www.patolojiatlasi.com/wsi.html" width="100%" height="500px"> </iframe>
+<iframe src="https://www.patolojiatlasi.com/wsi.html" width="100%" height="600px"> </iframe>
 ```
 
-
-::::
-
-
-::::: 
 
 
 ::: {.notes}
@@ -117,7 +67,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 :::
 
 
-## {fullscreen=true}
+## Patoloji Atlası {fullscreen=true}
 
 ```{=html}
 <iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" width="100%" height="150%"> </iframe>
@@ -125,67 +75,30 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-
-## Dijital Patoloji Nerede Kullanılıyor?
-
+## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
 
 
-::::: {.columns}
+
+![](./media/cBioPortal.png)
+
+![](./media/TCGA.png)
 
 
-:::: {.column width="40%"}
+## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+
+![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
 
 
--   Konsültasyon
-    -   Frozen
--   Eğitim
-
-::: {.fragment .fade-in}
-::: {.fragment .highlight-red}
-
--   Araştırma
-
+::: {.footer}
+Analysis of application of digital image analysis in histopathology quality control. J Pathol Inform. 2023 Jul 3;14:100322. doi: 10.1016/j.jpi.2023.100322.
 :::
-:::
-
-
-:::: 
-
-
-:::: {.column width="60%"}
-
--   Scanner olmadan dijital patoloji mi olurmuş?
--   Journal of Path Informatics yayını
--   TCGA
--   cBioPortal
-
-
-
-::::
-
-::::: 
-
-
 
 
 ::: {.notes}
-
 Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, ilgilenecekleri bekliyor.
 - İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
 [^1]: Burak Buyrukbilen
-
 :::
-
-
-
-## Dijital Patoloji Nerede Kullanılıyor?
-
--   Konsültasyon
-    -   Frozen
--   Eğitim
--   Araştırma
--   Rutin Tanı
-
 
 
 
