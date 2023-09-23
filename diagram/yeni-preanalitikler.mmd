@@ -1,0 +1,17 @@
+flowchart TB
+Frozen[Frozen] --> Ameliyathane[Ameliyathane]
+Ameliyathane[Ameliyathane] --> Transfer[Hastane Transfer]
+HastaBasi[Hasta Başı] --> Transfer[Hastane Transfer]
+Poliklinik[Poliklinik] --> Transfer[Hastane Transfer]
+Transfer[Hastane Transfer] --> PatolojiKabul{Patoloji Kabul}
+PatolojiKabul{Patoloji Kabul} --> Makroskopi[Makroskopi]
+PatolojiKabul{Patoloji Kabul} --> Sitoloji[Sitoloji]
+Makroskopi[Makroskopi] --> DokuTakip[Doku Takip]
+Sitoloji[Sitoloji] --> DokuTakip[Doku Takip]
+DokuTakip[Doku Takip] --> Gomme[Gömme]
+Gomme[Gömme] --> Kesit{Kesit}
+Kesit{Kesit} -.-HE-.-> Tarama[Dijital Tarama]
+Kesit{Kesit} -.- HK-.-> Tarama[Dijital Tarama]
+Kesit{Kesit} -.- IHK-.-> Tarama[Dijital Tarama]
+Kesit{Kesit} -.- ISH-.-> Tarama[Dijital Tarama]
+Sitoloji[Sitoloji] --> Tarama[Dijital Tarama]

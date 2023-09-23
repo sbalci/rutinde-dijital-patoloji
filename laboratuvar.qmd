@@ -1,16 +1,17 @@
 # Laboratuvar
 
-## İş Akışı
+## Analitik Süreç
 
 ::: {.panel-tabset}
 
 ### Eski Analitikler
 
-![](./media/patoloji-is-akisi.png)
+![](./media/eski-preanalitikler.mmd.png)
 
 ### Yeni Preanalitikler
 
-![](./media/patoloji-is-akisi.png)
+![](./media/yeni-preanalitikler.mmd.png)
+
 
 :::
 
@@ -24,17 +25,27 @@
 
 ### Zorluklar
 
-Content for `Tab A`
+![](./media/datamatrix-denemeler.jpeg)
+![](./media/datamatrix-kotu-taranmis.jpg)
+
+![](./media/makinanin-insanin-okudugu.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+![](./media/datamatrix-1.jpeg)
+
+
+![](./media/sanal-mape-2.png)
+
 
 :::
 
 
 
 ## Makroskopi
+
+![](./media/makroskopi.jpg)
 
 
 ::: {.panel-tabset}
@@ -84,6 +95,12 @@ Katlantılar
 ## Kapama
 
 
+![](./media/lamlarin-dizilmesi.JPG)
+
+
+
+![](./media/lamlarin-dizilmesi-2.JPG)
+
 
 ::: {.panel-tabset}
 
@@ -100,7 +117,7 @@ Content for `Tab B`
 
 ## Temizlik
 
-
+![](./media/preparat-temizlik.JPG)
 
 ::: {.panel-tabset}
 
@@ -147,6 +164,16 @@ Content for `Tab B`
 :::
 
 
+## Kalibrasyon
+
+![](./media/artefakt-1.png)
+
+![](./media/artefakt-2.png)
+
+{{< video ./media/artefakt-yapay-zeka.mp4 >}}
+
+
+
 ## Hastane BYS, Laboratuvar BYS
 
 
@@ -166,7 +193,7 @@ Content for `Tab B`
 
 ## PACS, Depo, Arşiv
 
-
+![](./media/kumulatif-toplam.jpeg)
 
 ::: {.panel-tabset}
 

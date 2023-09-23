@@ -46,7 +46,7 @@ execute:
   # echo: false
   warning: false
   output: asis
-  # freeze: auto
+  freeze: false
 cache: true
 # footnotes-hover: true
 # controls: auto
@@ -66,11 +66,11 @@ title-slide-attributes:
 
 {{< include laboratuvar.qmd >}}
 
-{{< include tarama.qmd >}}
-
 {{< include patolog.qmd >}}
 
 {{< include sitoloji.qmd >}}
+
+{{< include tarama.qmd >}}
 
 <!-- {{< include yapayzeka.qmd >}} -->
 

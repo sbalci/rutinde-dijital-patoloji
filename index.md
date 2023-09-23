@@ -46,7 +46,7 @@ execute:
   # echo: false
   warning: false
   output: asis
-  # freeze: auto
+  freeze: false
 cache: true
 # footnotes-hover: true
 # controls: auto
@@ -60,7 +60,7 @@ title-slide-attributes:
 # Dijital Patoloji Nedir Ki?
 
 
-## Dijital Patoloji Nedir Ki?
+## Dijital Patoloji Nedir Ki? {fullscreen=true}
 
 ![](./media/scanner-room.jpg)
 
@@ -69,9 +69,23 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 :::
 
 
-## Dijital Patoloji İçin Tarayıcı Şart mı? Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji {fullscreen=true}
 
-![](./media/scanner-room.jpg)
+:::: {.columns}
+
+::: {.column width="70%"}
+![](./media/scanner-room-2.jpg)
+:::
+
+::: {.column width="30%"}
+- Dijital Patoloji İçin Tarayıcı Şart mı?
+- Dijital Patoloji Nerede Kullanılıyor?
+:::
+
+::::
+
+
+
 
 ::: {.notes}
 Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
@@ -84,11 +98,18 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 
 
 
-## Dijital Patoloji - Konsültasyon 
+## Dijital Patoloji <br> Konsültasyon {auto-animate=true}
 
+:::: {.columns}
 
+::: {.column width="50%"}
 ![](./media/mikroskop-atacman.JPG)
+:::
 
+::: {.column width="50%"}
+![](./media/mikroskop-atacman-selobant.JPG)
+:::
+::::
 
 
 ::: {.notes}
@@ -97,7 +118,24 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji - Frozen
+## Dijital Patoloji <br> Konsültasyon {auto-animate=true}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](./media/telefon-panoromik-cekim.JPG)
+:::
+
+::: {.column width="50%"}
+![](./media/mikroskop-atacman-selobant-4.jpeg)
+:::
+::::
+
+
+
+
+
+## Dijital Patoloji <br> Frozen
 
 :::: {.columns}
 
@@ -127,7 +165,7 @@ Frozen
 
 
 
-## Dijital Patoloji - Eğitim 
+## Dijital Patoloji <br> Eğitim 
 
 
 
@@ -151,9 +189,11 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ```
 
 
+::: {.footer}
+[patolojiatlasi.com](https://www.patolojiatlasi.com/) [histopathologyatlas.com](https://www.histopathologyatlas.com/)
+:::
 
-
-## Dijital Patoloji - Araştırma
+## Dijital Patoloji <br> Araştırma
 
 
 
@@ -162,9 +202,9 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
-## Dijital Patoloji - Araştırma
+## Dijital Patoloji <br> Araştırma
 
-![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
+![](./media/analysis-of-application-of-digital-image.jpg){.absolute left=50 height="60%"}
 
 
 ::: {.footer}
@@ -176,6 +216,45 @@ Analysis of application of digital image analysis in histopathology quality cont
 Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, ilgilenecekleri bekliyor.
 - İki cam arasını sonunda sayısallaştırdık, şimdi analiz zamanı.[^1] 
 [^1]: Burak Buyrukbilen
+:::
+
+
+## Dijital Patoloji <br> Rutin Tanı
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](./media/cnbc-ai-powered-microscope.png)
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![](./media/augmented-reality-microscope.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+
+::: {.column width="30%"}
+![](./media/cnbc-augmented-reality-microscope.jpg)
+:::
+
+
+::::
+
+
+::: {.footer}
+An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis. Nat Med 25, 1453–1457 (2019). https://doi.org/10.1038/s41591-019-0539-7
+:::
+
+::: {.notes}
+- [Independent assessment of a deep learning system for lymph node metastasis detection on the Augmented Reality Microscope](https://www.sciencedirect.com/science/article/pii/S2153353922007362)
+- https://www.cnbc.com/amp/2023/09/18/google-dod-built-an-ai-powered-microscope-to-help-doctors-spot-cancer.html
+- [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://www.nature.com/articles/s41591-019-0539-7)
 :::
 
 
@@ -198,7 +277,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 
 
-## Görüntünün Dijitalleştirilmesi - Patolojinin Verileştirilmesi
+## Görüntünün Dijitalleştirilmesi <br> Patolojinin Verileştirilmesi
 
 ::: {.columns}
 
@@ -261,8 +340,7 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 
 
-## Rutinden örnekler
-
+# Rutinden örnekler
 
 
 
@@ -296,17 +374,18 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 # Laboratuvar
 
-## İş Akışı
+## Analitik Süreç
 
 ::: {.panel-tabset}
 
 ### Eski Analitikler
 
-![](./media/patoloji-is-akisi.png)
+![](./media/eski-preanalitikler.mmd.png)
 
 ### Yeni Preanalitikler
 
-![](./media/patoloji-is-akisi.png)
+![](./media/yeni-preanalitikler.mmd.png)
+
 
 :::
 
@@ -320,17 +399,27 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 ### Zorluklar
 
-Content for `Tab A`
+![](./media/datamatrix-denemeler.jpeg)
+![](./media/datamatrix-kotu-taranmis.jpg)
+
+![](./media/makinanin-insanin-okudugu.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+![](./media/datamatrix-1.jpeg)
+
+
+![](./media/sanal-mape-2.png)
+
 
 :::
 
 
 
 ## Makroskopi
+
+![](./media/makroskopi.jpg)
 
 
 ::: {.panel-tabset}
@@ -380,6 +469,12 @@ Katlantılar
 ## Kapama
 
 
+![](./media/lamlarin-dizilmesi.JPG)
+
+
+
+![](./media/lamlarin-dizilmesi-2.JPG)
+
 
 ::: {.panel-tabset}
 
@@ -396,7 +491,7 @@ Content for `Tab B`
 
 ## Temizlik
 
-
+![](./media/preparat-temizlik.JPG)
 
 ::: {.panel-tabset}
 
@@ -443,6 +538,19 @@ Content for `Tab B`
 :::
 
 
+## Kalibrasyon
+
+![](./media/artefakt-1.png)
+
+![](./media/artefakt-2.png)
+
+
+{{< video ./media/artefakt-yapay-zeka.mp4 >}}
+
+
+
+
+
 ## Hastane BYS, Laboratuvar BYS
 
 
@@ -462,7 +570,7 @@ Content for `Tab B`
 
 ## PACS, Depo, Arşiv
 
-
+![](./media/kumulatif-toplam.jpeg)
 
 ::: {.panel-tabset}
 
@@ -496,31 +604,11 @@ Content for `Tab B`
 
 
 
-## Tarama cihazı
+# Patolog
 
+## Alışkanlıklar
 
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-
-Dizme sırası
-
-Racklardaki Boşluklar
-
-Taramanın durdurulması
-
-
-
-## Tarama kalitesi nasıl ölçülür?
+![](./media/patolog-cekinceler.png)
 
 ::: {.panel-tabset}
 
@@ -534,41 +622,11 @@ Content for `Tab B`
 
 :::
 
-## Mega kaset
+## Alışkanlıklar - 2
 
-::: {.panel-tabset}
+![](./media/dunyanin-en-acil-taramasi-2.png)
 
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-
-
-
-
-## Patolog
-
-
-
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-
+![](./media/tarama-suresi.JPG)
 
 ## Ekran
 
@@ -595,38 +653,31 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-
-:::: {.columns .v-center-container}
-
-
-::: {.column width="50%"}
-
 
 <!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 -->
 
+### Kolaylıklar
 
-:::
+![](./media/navigasyon-Conventional-Mouse-a-Trackballs-1-b-2-c-and-3-d-Vertical-Mouse-e.png)
 
-::: {.column width="50%"}
+
+![](./media/navigasyon-mouse.jpg)
+
 
 
 {{< video https://www.youtube.com/embed/GFFK-d_Hua8 >}}
 
 
+{{< video ./media/navigation-digital-pathology.mp4 >}}
+
+
+
+
 
 :::
 
-::::
 
 
 
@@ -653,6 +704,7 @@ lam üzeri
 
 ## Vakanın tümü tarandı mı?
 
+![](./media/sectra-inceleme-etkinlik-izi.jpg)
 
 ::: {.panel-tabset}
 
@@ -670,19 +722,7 @@ Content for `Tab B`
 ## Lamın tümü tarandı mı?
 
 
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-## Çalışma Düzeni
+![](./media/eksik-tarama.png)
 
 
 ::: {.panel-tabset}
@@ -698,8 +738,49 @@ Content for `Tab B`
 :::
 
 
-İstediğin zaman, isteiğin yerde çalışabilme 
-Her zaman her yerde çalışma 
+## Lamın tümüne baktık mı?
+
+
+![](./media/navigasyon-preparat.JPG)
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+## Çalışma Hayatı
+
+
+::: {.panel-tabset}
+
+### Kolaylıklar
+
+- İstediğin zaman, istediğin yerde çalışabilme.  
+- Şehir, ülke, saat sınırlaması kalmadı. 
+
+### Zorluklar
+
+- Her zaman her yerde çalışma.
+
+:::
+
+
+
+
+## Yapay Zeka <br> Karar Destek Sistemleri
+
+Patoloğun üstesinden geleceği artefaktların üstesinden AI gelemeyebilir
+
+
 
 
 
@@ -735,6 +816,21 @@ Content for `Tab B`
 
 :::
 
+
+
+# Tarama cihazı {.smaller}
+
+- İnternet/intranet bağlantısı
+- HBYS, PBYS entegrasyonu
+- Işık netlik ayarı
+- Dizme sırası
+- Racklardaki boşluklar
+- Taramanın durdurulması
+- Tarama kalitesi
+- Farklı lamlar
+  - Cam lamel
+  - Kalın lam
+  - Mega kaset
 
 
 

@@ -1,0 +1,59 @@
+graph TD
+
+POLIKLINIK[Poliklinik] --> HASTANETRANSFER[Hastane Transfer];
+
+HASTABASI[Hasta Başı] --> HASTANETRANSFER[Hastane Transfer];
+
+FROZEN[Frozen] --> AMELİYATHANE[Ameliyathane];
+
+AMELİYATHANE[Ameliyathane] --> HASTANETRANSFER[Hastane Transfer];
+
+HASTANETRANSFER[Hastane Transfer] --> PATOLOJIKABUL{Patoloji Kabul};
+
+PATOLOJIKABUL{Patoloji Kabul} --> MAKROSKOPİ[Makroskopi]
+
+MAKROSKOPİ[Makroskopi] --> MAKROSKOPIARSIV[Makroskopi Arşiv] --> TIBBIATIK[Tıbbi Atık];
+
+MAKROSKOPİ[Makroskopi] --> DOKUTAKIP[Doku Takip];
+
+DOKUTAKIP[Doku Takip] --> GOMME[Gömme];
+
+GOMME[Gömme] --> KESIT[Kesit];
+
+TESLIMATDP[Teslimat ya da Dijital Tarama] -..-> ARSIV[Lam/Blok Arşivi, Dijital Arşiv];
+
+KESIT[Kesit] --> HE[Rutin Boyama HE] -->  TESLIMATDP[Teslimat ya da Dijital Tarama];
+
+TESLIMATDP[Teslimat ya da Dijital Tarama] --> PATOLOG{Patolog};
+
+PATOLOG{Patolog} --Mikroskopi--> RAPOR(Rapor) -.Ek Rapor.-> RAPORARSIV[Rapor Arşivi];
+
+RAPORARSIV[Rapor Arşivi] -..- RESEARCH[Araştırma, Konsültasyon];
+
+ARSIV[Lam/Blok Arşivi, Dijital Arşiv] -..- RESEARCH[Araştırma, Konsültasyon];
+
+PATOLOG{Patolog} -.Yeni Parça.-> MAKROSKOPİ[Makroskopi];
+
+PATOLOG{Patolog} -.Yeni Kesit.-> KESIT[Kesit];
+
+KESIT[Kesit] -.Histokimya.-> TESLIMATDP[Teslimat ya da Dijital Tarama];
+
+KESIT[Kesit] -.İmmünohistokimya.-> TESLIMATDP[Teslimat ya da Dijital Tarama];
+
+KESIT[Kesit] -.FISH/CISH.-> TESLIMATDP[Teslimat ya da Dijital Tarama];
+
+KESIT[Kesit] -.Genetik.-> PATOLOG[Patolog];
+
+PATOLOG{Patolog} -.Konsültasyon.- DIGERPATOLOG[Diğer Patolog];
+
+PATOLOG{Patolog} -.Konsültasyon.- DIGERHASTANEPATOLOG[Diğer Hastanedeki Patolog];
+
+RAPOR(Rapor) --- KLINISYEN[Klinisyen];
+
+RAPOR(Rapor) --- KLINIKOPATOLOJIK[Klinikopatolojik Toplantı];
+
+PATOLOJIKABUL{Patoloji Kabul} --> SİTOLOJİ[Sitoloji];
+
+SİTOLOJİ[Sitoloji] --> DOKUTAKIP[Doku Takip];
+
+SİTOLOJİ[Sitoloji] --> TESLIMATDP[Teslimat ya da Dijital Tarama];

@@ -1,7 +1,8 @@
+# Patolog
 
-## Patolog
+## Alışkanlıklar
 
-
+![](./media/patolog-cekinceler.png)
 
 ::: {.panel-tabset}
 
@@ -15,7 +16,11 @@ Content for `Tab B`
 
 :::
 
+## Alışkanlıklar - 2
 
+![](./media/dunyanin-en-acil-taramasi-2.png)
+
+![](./media/tarama-suresi.JPG)
 
 ## Ekran
 
@@ -42,35 +47,28 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-
-:::: {.columns .v-center-container}
-
-
-::: {.column width="50%"}
-
 
 <!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 -->
 
+### Kolaylıklar
 
-:::
+![](./media/navigasyon-Conventional-Mouse-a-Trackballs-1-b-2-c-and-3-d-Vertical-Mouse-e.png)
 
-::: {.column width="50%"}
+
+![](./media/navigasyon-mouse.jpg)
+
 
 {{< video https://www.youtube.com/embed/GFFK-d_Hua8 >}}
 
+
+{{< video ./media/navigation-digital-pathology.mp4 >}}
+
+
+
 :::
 
-::::
 
 
 
@@ -97,6 +95,7 @@ lam üzeri
 
 ## Vakanın tümü tarandı mı?
 
+![](./media/sectra-inceleme-etkinlik-izi.jpg)
 
 ::: {.panel-tabset}
 
@@ -114,19 +113,7 @@ Content for `Tab B`
 ## Lamın tümü tarandı mı?
 
 
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
-
-## Çalışma Düzeni
+![](./media/eksik-tarama.png)
 
 
 ::: {.panel-tabset}
@@ -142,7 +129,38 @@ Content for `Tab B`
 :::
 
 
-İstediğin zaman, isteiğin yerde çalışabilme 
-Her zaman her yerde çalışma 
+## Lamın tümüne baktık mı?
 
+
+![](./media/navigasyon-preparat.JPG)
+
+
+::: {.panel-tabset}
+
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+
+:::
+
+
+## Çalışma Hayatı
+
+
+::: {.panel-tabset}
+
+### Kolaylıklar
+
+- İstediğin zaman, istediğin yerde çalışabilme.  
+- Şehir, ülke, saat sınırlaması kalmadı. 
+
+### Zorluklar
+
+- Her zaman her yerde çalışma.
+
+:::
 
