@@ -69,7 +69,22 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 :::
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Konsültasyon 
+## Dijital Patoloji İçin Tarayıcı Şart mı? Dijital Patoloji Nerede Kullanılıyor?
+
+![](./media/scanner-room.jpg)
+
+::: {.notes}
+Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
+:::
+
+
+
+
+
+
+
+
+## Dijital Patoloji - Konsültasyon 
 
 
 ![](./media/mikroskop-atacman.JPG)
@@ -82,7 +97,7 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Frozen
+## Dijital Patoloji - Frozen
 
 :::: {.columns}
 
@@ -112,7 +127,7 @@ Frozen
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Eğitim 
+## Dijital Patoloji - Eğitim 
 
 
 
@@ -138,7 +153,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+## Dijital Patoloji - Araştırma
 
 
 
@@ -147,7 +162,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
-## Dijital Patoloji Nerede Kullanılıyor? - Araştırma
+## Dijital Patoloji - Araştırma
 
 ![](./media/analysis-of-application-of-digital-image.jpg){height="60%"}
 
@@ -165,21 +180,20 @@ Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, 
 
 
 
-## Dijital Patoloji Nerede Kullanılıyor?
+## Dijital Patoloji
 
--   Konsültasyon
--   Frozen
--   Eğitim
--   Araştırma
 
-::: {.fragment .highlight-red}
--   Rutin Tanı
+::: {.panel-tabset}
+
+### Tarayıcı Şart mı?
+
+Kullanım ihtiyacınıza göre olmasa da olur.
+
+### Tarayıcı Olunca Dijital Patolojiye Geçmiş Olur muyuz? 
+
+Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
+
 :::
-
-
-
-
-
 
 
 
@@ -211,12 +225,6 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 :::
 
 
-
-::: {.notes}
-Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
-:::
-
-
 # Dijital Patoloji Nedir?
 
 :::: {.columns}
@@ -239,7 +247,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 - Alan yeni. 
 - Çok fazla ön yargı var. 
-
+- Maliyet. 
 
 ### Kolaylıklar
 
@@ -247,6 +255,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 - Yapılabilecek ve öğrenilecek çok şey var. 
 - Çoğu kişi bilgi ve deneyimini paylaşmaya hazır. 
 - Ortak yapılacak çok şey var. 
+- Tüm laboratuvarın kalitesini arttırıyor. 
 
 :::
 
@@ -287,20 +296,17 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 # Laboratuvar
 
-## Eski Analitikler, Yeni Preanalitikler
-
-![](./media/patoloji-is-akisi.png)
-
+## İş Akışı
 
 ::: {.panel-tabset}
 
-### Zorluklar
+### Eski Analitikler
 
-Content for `Tab A`
+![](./media/patoloji-is-akisi.png)
 
-### Kolaylıklar
+### Yeni Preanalitikler
 
-Content for `Tab B`
+![](./media/patoloji-is-akisi.png)
 
 :::
 
