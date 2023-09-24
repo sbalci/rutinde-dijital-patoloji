@@ -44,35 +44,16 @@
 
 ![](./media/makroskopi.jpg)
 
+![](./media/makroskopi.png)
 
-::: {.panel-tabset}
+![](./media/belgeler-mikroskopi-makroskopi-video-1.png)
 
-### Zorluklar
 
-Content for `Tab A`
+![](./media/belgeler-mikroskopi-makroskopi-video-2.png)
 
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
 
 
 ## Gömme {auto-animate="true"}
-
-
-
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
 
 
 Düzenli gömme
@@ -179,34 +160,37 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Farklı firmalar. 
+- Değişen firmalar. 
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Entegre sistem ile tüm kliniğe ve eski tetkiklere kolay ulaşım.
 
 :::
 
 
 ## PACS, Depo, Arşiv
 
-![](./media/kumulatif-toplam.jpeg)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+
+![](./media/kumulatif-toplam.jpeg)
+
+![](./media/dijital-kapasite-2.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
 
 :::
 
 
 ## İş Akışı
-
 
 
 ::: {.panel-tabset}

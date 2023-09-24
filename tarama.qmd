@@ -1,5 +1,6 @@
-# Tarama cihazı {.smaller}
+# Tarama Cihazı {.smaller}
 
+- Hangi tarama cihazı
 - İnternet/intranet bağlantısı
 - HBYS, PBYS entegrasyonu
 - Işık netlik ayarı

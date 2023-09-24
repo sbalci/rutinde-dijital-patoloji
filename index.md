@@ -181,7 +181,9 @@ Frozen
 ```
 
 
-
+::: {.footer}
+[patolojiatlasi.com](https://www.patolojiatlasi.com/) [histopathologyatlas.com](https://www.histopathologyatlas.com/)
+:::
 
 ::: {.notes}
 Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor. 
@@ -209,13 +211,17 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 ![](./media/TCGA.png)
 
 
+::: {.footer}
+[cbioportal](http://www.cbioportal.org/) - [TCGA](https://portal.gdc.cancer.gov/)
+:::
+
 ## Dijital Patoloji <br> Araştırma
 
 ![](./media/analysis-of-application-of-digital-image.jpg){.absolute left=50 height="60%"}
 
 
 ::: {.footer}
-Analysis of application of digital image analysis in histopathology quality control. J Pathol Inform. 2023 Jul 3;14:100322. doi: 10.1016/j.jpi.2023.100322.
+Analysis of application of digital image analysis in histopathology quality control. <br> J Pathol Inform. 2023 Jul 3;14:100322. doi: 10.1016/j.jpi.2023.100322.
 :::
 
 
@@ -255,7 +261,7 @@ Araştırma içinse hala daha işlenmeyi bekleyen petabytlarca açık veri var, 
 
 
 ::: {.footer}
-An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis. Nat Med 25, 1453–1457 (2019). https://doi.org/10.1038/s41591-019-0539-7
+An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis. <br> Nat Med 25, 1453–1457 (2019). https://doi.org/10.1038/s41591-019-0539-7
 :::
 
 ::: {.notes}
@@ -307,6 +313,11 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 :::
 
 ::: {.footer}
+Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023.
+:::
+
+
+::: {.notes}
 Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2023. | DOI: 10.1097/PAI.0000000000001145
 :::
 
@@ -334,6 +345,9 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 - Alan yeni. 
 - Çok fazla ön yargı var. 
 - Maliyet. 
+  - Para
+  - Zaman
+  - Emek
 
 ### Kolaylıklar
 
@@ -425,35 +439,16 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 ![](./media/makroskopi.jpg)
 
+![](./media/makroskopi.png)
 
-::: {.panel-tabset}
+![](./media/belgeler-mikroskopi-makroskopi-video-1.png)
 
-### Zorluklar
 
-Content for `Tab A`
+![](./media/belgeler-mikroskopi-makroskopi-video-2.png)
 
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
 
 
 ## Gömme {auto-animate="true"}
-
-
-
-::: {.panel-tabset}
-
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-
-:::
 
 
 Düzenli gömme
@@ -563,34 +558,37 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Farklı firmalar. 
+- Değişen firmalar. 
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Entegre sistem ile tüm kliniğe ve eski tetkiklere kolay ulaşım.
 
 :::
 
 
 ## PACS, Depo, Arşiv
 
-![](./media/kumulatif-toplam.jpeg)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+
+![](./media/kumulatif-toplam.jpeg)
+
+![](./media/dijital-kapasite-2.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
 
 :::
 
 
 ## İş Akışı
-
 
 
 ::: {.panel-tabset}
@@ -816,8 +814,9 @@ Content for `Tab B`
 
 
 
-# Tarama cihazı {.smaller}
+# Tarama Cihazı {.smaller}
 
+- Hangi tarama cihazı
 - İnternet/intranet bağlantısı
 - HBYS, PBYS entegrasyonu
 - Işık netlik ayarı
