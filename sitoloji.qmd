@@ -1,16 +1,18 @@
 # Sitoloji
 
-## Preparatın taraması
+## Preparatın taranması
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Odaklanma
+- Z-stack
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Sıvı bazlı
+- Alan küçük 
 
 :::
 
@@ -22,11 +24,12 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Büyük büyütmede tüm alanlara bakmak lazım.
+- Patern analizi kısıtlı.
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- ??
 
 :::
 

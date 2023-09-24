@@ -24,16 +24,16 @@ Content for `Tab B`
 
 ## Ekran
 
-
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Yeni bir postür
+- Yeni bir çalışma düzeni
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Geniş alan
 
 :::
 
