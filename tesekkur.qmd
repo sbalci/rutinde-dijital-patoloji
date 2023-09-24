@@ -1,6 +1,5 @@
 # Teşekkürler
 
-
 ```{r, eval=TRUE, echo=FALSE, include=FALSE, error=TRUE}
 if (!file.exists("./qrcodes/vakalar1.svg")) {
 
@@ -11,8 +10,6 @@ if (!file.exists("./qrcodes/vakalar1.svg")) {
                        show = FALSE)
 }
 ```
-
-
 
 ```{r, eval=TRUE, echo=FALSE, include=FALSE, error=TRUE}
 if (!file.exists("./qrcodes/vakalar2.svg")) {
@@ -25,7 +22,6 @@ if (!file.exists("./qrcodes/vakalar2.svg")) {
 }
 ```
 
-
 ```{r, eval=TRUE, echo=FALSE, include=FALSE, error=TRUE}
 if (!file.exists("./qrcodes/patolojiatlasi.svg")) {
 
@@ -37,10 +33,8 @@ if (!file.exists("./qrcodes/patolojiatlasi.svg")) {
 }
 ```
 
-
-
-
-Sonuçta her zorluk bir kolaylıkla beraber geliyor. En iyisi bir işi bitirince hemen diğerine başlamak.
+Sonuçta her zorluk bir kolaylıkla beraber geliyor. En iyisi bir işi
+bitirince hemen diğerine başlamak.
 
 ```{r}
 #| echo: false
@@ -50,103 +44,80 @@ Sonuçta her zorluk bir kolaylıkla beraber geliyor. En iyisi bir işi bitirince
 fa_fill <- "#606060"
 ```
 
-
 ::: {.columns .v-center-container}
-
 ::: {.column width="60%"}
+`r fontawesome::fa("link", fill = fa_fill)`
+[serdarbalci.com](https://www.serdarbalci.com/)
 
-`r fontawesome::fa("link", fill = fa_fill)` [serdarbalci.com](https://www.serdarbalci.com/)
+`r fontawesome::fa("twitter", fill = fa_fill)`
+[\@serdarbalci](https://twitter.com/serdarbalci)
 
-`r fontawesome::fa("twitter", fill = fa_fill)` [\@serdarbalci](https://twitter.com/serdarbalci)
+`r fontawesome::fa("linkedin", fill = fa_fill)`
+[serdar-balci-md-pathologist](https://www.linkedin.com/in/serdar-balci-md-pathologist/)
 
-`r fontawesome::fa("linkedin", fill = fa_fill)` [serdar-balci-md-pathologist](https://www.linkedin.com/in/serdar-balci-md-pathologist/)
-
-`r fontawesome::fa("github", fill = fa_fill)` [sbalci](https://github.com/sbalci/)
-
+`r fontawesome::fa("github", fill = fa_fill)`
+[sbalci](https://github.com/sbalci/)
 :::
 
 ::: {.column width="40%"}
-
 ![](./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png)
-
 :::
-
 :::
 
 ## Patoloji Atlası
 
-:::: {.columns}
+::: columns
 ::: {.column width="60%"}
-`r fontawesome::fa("link", fill = fa_fill)` [Patoloji Atlası](https://www.patolojiatlasi.com/)
+`r fontawesome::fa("link", fill = fa_fill)` [Patoloji
+Atlası](https://www.patolojiatlasi.com/)
 :::
+
 ::: {.column width="40%"}
-`r fontawesome::fa("link", fill = fa_fill)` [Histopathology Atlas](https://www.histopathologyatlas.com/)
+`r fontawesome::fa("link", fill = fa_fill)` [Histopathology
+Atlas](https://www.histopathologyatlas.com/)
 :::
-::::
+:::
 
-:::: {.columns}
+::: columns
 ::: {.column width="40%"}
-
 ![](./media/patolojiatlasi.png)
 :::
+
 ::: {.column width="20%"}
 :::
+
 ::: {.column width="40%"}
 ![](./media/histopathologyatlas.png)
 :::
-::::
-
-
+:::
 
 ## 
 
-
-:::: {.columns}
-
-
+::: columns
 ::: {.column width="60%"}
-`Örnek Rutin Vakalar` 
+`Örnek Rutin Vakalar`
 
-- [memorial.patoloji.dev/webinar](https://memorial.patoloji.dev/webinar/)
-- [dijital.patoloji.dev](https://dijital.patoloji.dev/)
-
+-   [memorial.patoloji.dev/webinar](https://memorial.patoloji.dev/webinar/)
+-   [dijital.patoloji.dev](https://dijital.patoloji.dev/)
 :::
-
 
 ::: {.column width="40%"}
-`patolojiatlasi.com` 
+`patolojiatlasi.com`
+:::
 :::
 
-:::: 
-
-
-:::: {.columns}
-
-
+::: columns
 ::: {.column width="33%"}
-
-![](./qrcodes/vakalar1.svg){width="70%"} 
-
+![](./qrcodes/vakalar1.svg){width="70%"}
 :::
 
-
-
 ::: {.column width="33%"}
-
 ![](./qrcodes/vakalar2.svg){width="70%"}
-
 :::
-
-
 
 ::: {.column width="33%"}
-
 ![](./qrcodes/patolojiatlasi.svg){width="70%"}
-
+:::
 :::
 
-
-
-::::
-
-
+![](./media/memorial-logo.gif){.absolute left="35%" width="20%"}

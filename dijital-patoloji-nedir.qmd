@@ -74,6 +74,10 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 
 
+## Dijital Patoloji <br> Manuel Tarama
+
+
+{{< video ./media/manuel-dijital-tarama.mp4 title='Manuel Tarama' >}}
 
 
 ## Dijital Patoloji <br> Frozen
@@ -203,7 +207,7 @@ An augmented reality microscope with real-time artificial intelligence integrati
 
 ### Tarayıcı Şart mı?
 
-Kullanım ihtiyacınıza göre olmasa da olur.
+Kullanım ihtiyacınıza göre.
 
 ### Tarayıcı Olunca Dijital Patolojiye Geçmiş Olur muyuz? 
 

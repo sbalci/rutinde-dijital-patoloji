@@ -39,13 +39,13 @@ Content for `Tab B`
 
 
 
-## Kas hafızası
+## Navigasyon
 
 
 
 ::: {.panel-tabset}
 
-### Zorluklar
+### Zorluklar <br> Kas hafızası
 
 
 <!--
@@ -60,14 +60,18 @@ Content for `Tab B`
 ![](./media/navigasyon-mouse.jpg)
 
 
-{{< video https://www.youtube.com/embed/GFFK-d_Hua8 >}}
+{{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}}
 
 
-{{< video ./media/navigation-digital-pathology.mp4 >}}
+{{< video ./media/navigation-digital-pathology.mp4 width="100%" >}}
 
 
 
 :::
+
+
+## Navigasyon <br> Çoklu Ekran
+
 
 
 

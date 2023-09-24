@@ -19,8 +19,6 @@
 
 ## Barkod, Karekod, Datamatrix
 
-
-
 ::: {.panel-tabset}
 
 ### Zorluklar
@@ -37,7 +35,6 @@
 
 
 ![](./media/sanal-mape-2.png)
-
 
 :::
 
