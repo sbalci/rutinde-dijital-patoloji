@@ -70,12 +70,6 @@ title-slide-attributes:
 
 {{< include sitoloji.qmd >}}
 
-{{< include tarama.qmd >}}
-
-<!-- {{< include yapayzeka.qmd >}} -->
-
-<!-- {{< include arastirma.qmd >}} -->
+{{< include baska-sefere.qmd >}}
 
 {{< include tesekkur.qmd >}}
-
-<!-- {{< include ornek-vakalar.qmd >}} -->

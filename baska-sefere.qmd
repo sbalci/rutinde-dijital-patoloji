@@ -1,0 +1,33 @@
+# Başka Sefere {.smaller}
+
+::: {.panel-tabset}
+
+### Tarama
+
+- Hangi tarama cihazı
+- Cihazın tarama hızı
+- Cihazın sunucu ile bağlantı hızı
+- Sunucu kullanıcı ile bağlantı hızı
+- HBYS, PBYS entegrasyonu
+- Işık netlik ayarı
+- Tarma şekli
+  - Tüm lam
+  - Doku tespiti
+- Dizme sırası
+- Racklardaki boşluklar
+- Taramanın durdurulması
+- Tarama kalitesi
+- Farklı lamlar
+  - Cam lamel
+  - Kalın lam
+  - Mega kaset
+
+### Arayüz
+
+### Araştırma
+
+### Yapay Zeka
+
+:::
+
+

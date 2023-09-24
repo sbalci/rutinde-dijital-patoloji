@@ -418,6 +418,11 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 ### Zorluklar
 
+- Tüm basamaklarda barkod gerekli
+- Farklı firmalara ait cihazlarda ortak kod oluşturmalı
+- Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
+
+
 ![](./media/datamatrix-denemeler.jpeg)
 ![](./media/datamatrix-kotu-taranmis.jpg)
 
@@ -425,6 +430,10 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 
 ### Kolaylıklar
+
+- Biyopsi numarası, Blok numarası, Boya ismi
+- Vakanın takibi, kontrol basamakları
+- Geri dönük tarama
 
 ![](./media/datamatrix-1.jpeg)
 
@@ -436,6 +445,10 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 
 ## Makroskopi
+
+- Makroskopik görünütler biyopsi numaraları ile eşleşir
+- Görüntüler raporlama sırasında erişilebilir
+
 
 ![](./media/makroskopi.jpg)
 
@@ -544,7 +557,7 @@ Content for `Tab B`
 ![](./media/artefakt-2.png)
 
 
-{{< video ./media/artefakt-yapay-zeka.mp4 >}}
+{{< video ./media/artefakt-yapay-zeka-2.mp4 >}}
 
 
 
@@ -632,16 +645,17 @@ Content for `Tab B`
 
 ## Ekran
 
-
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Yeni kuşak patolojinin yeni ergonomi sorunları
+- Yeni bir postür
+- Yeni bir çalışma düzeni
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Geniş alan
 
 :::
 
@@ -655,6 +669,8 @@ Content for `Tab B`
 
 ### Zorluklar <br> Kas hafızası
 
+- Yeni kuşak patolojinin yeni ergonomi sorunları
+- Kas hafızası 
 
 <!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -710,13 +726,16 @@ lam üzeri
 
 ## Vakanın tümü tarandı mı?
 
+
 ![](./media/sectra-inceleme-etkinlik-izi.jpg)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Radyoloji mantığında tekniker görüntüleri hazırlayıp gönderiyor
+- Patolojide tüm lamların tarandığından emin olmak lazım
+
 
 ### Kolaylıklar
 
@@ -735,11 +754,14 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Tüm lamı tararsak boşluklar gereksiz yer kaplıyor. 
+- Otomatik doku tespiti küçük dokuları atlayabiliyor. 
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Literatürde atlanan küçük dokuların tanısal sorun yaratmadığına dair çalışmalar var.
+  - Ama bu patolog obsesyonuna çare değil. 
+
 
 :::
 
@@ -768,31 +790,36 @@ Content for `Tab B`
 
 ::: {.panel-tabset}
 
+### Zorluklar
+
+- Her zaman her yerde çalışma.
+
 ### Kolaylıklar
 
 - İstediğin zaman, istediğin yerde çalışabilme.  
 - Şehir, ülke, saat sınırlaması kalmadı. 
+- Yurtdışında çoğu merkez konsültasyon için dijital görüntüleri kabul etmeye başladı. 
+- Konsültasyon kolaylaştı. 
 
-### Zorluklar
-
-- Her zaman her yerde çalışma.
 
 :::
 
 
 # Sitoloji
 
-## Preparatın taraması
+## Preparatın taranması
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Odaklanma
+- Z-stack
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Sıvı bazlı
+- Alan küçük 
 
 :::
 
@@ -804,22 +831,32 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Büyük büyütmede tüm alanlara bakmak lazım.
+- Patern analizi kısıtlı.
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- ??
 
 :::
 
 
 
-# Tarama Cihazı {.smaller}
+# Başka Sefere {.smaller}
+
+::: {.panel-tabset}
+
+### Tarama
 
 - Hangi tarama cihazı
-- İnternet/intranet bağlantısı
+- Cihazın tarama hızı
+- Cihazın sunucu ile bağlantı hızı
+- Sunucu kullanıcı ile bağlantı hızı
 - HBYS, PBYS entegrasyonu
 - Işık netlik ayarı
+- Tarma şekli
+  - Tüm lam
+  - Doku tespiti
 - Dizme sırası
 - Racklardaki boşluklar
 - Taramanın durdurulması
@@ -829,12 +866,15 @@ Content for `Tab B`
   - Kalın lam
   - Mega kaset
 
+### Arayüz
+
+### Araştırma
+
+### Yapay Zeka
+
+:::
 
 
-
-<!-- {{< include yapayzeka.qmd >}} -->
-
-<!-- {{< include arastirma.qmd >}} -->
 
 # Teşekkürler
 
@@ -927,6 +967,3 @@ Atlas](https://www.histopathologyatlas.com/)
 
 ![](./media/memorial-logo.gif){.absolute left="35%" width="20%"}
 
-
-
-<!-- {{< include ornek-vakalar.qmd >}} -->

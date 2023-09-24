@@ -28,6 +28,7 @@ Content for `Tab B`
 
 ### Zorluklar
 
+- Yeni kuşak patolojinin yeni ergonomi sorunları
 - Yeni bir postür
 - Yeni bir çalışma düzeni
 
@@ -45,8 +46,10 @@ Content for `Tab B`
 
 ::: {.panel-tabset}
 
-### Zorluklar <br> Kas hafızası
+### Zorluklar
 
+- Yeni kuşak patolojinin yeni ergonomi sorunları
+- Kas hafızası 
 
 <!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -63,7 +66,7 @@ Content for `Tab B`
 {{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}}
 
 
-{{< video ./media/navigation-digital-pathology.mp4 width="100%" >}}
+{{< video ./media/navigation-digital-pathology.mp4 >}}
 
 
 
@@ -99,13 +102,16 @@ lam üzeri
 
 ## Vakanın tümü tarandı mı?
 
+
 ![](./media/sectra-inceleme-etkinlik-izi.jpg)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+- Radyoloji mantığında tekniker görüntüleri hazırlayıp gönderiyor
+- Patolojide tüm lamların tarandığından emin olmak lazım
+
 
 ### Kolaylıklar
 
@@ -124,11 +130,14 @@ Content for `Tab B`
 
 ### Zorluklar
 
-Content for `Tab A`
+- Tüm lamı tararsak boşluklar gereksiz yer kaplıyor. 
+- Otomatik doku tespiti küçük dokuları atlayabiliyor. 
 
 ### Kolaylıklar
 
-Content for `Tab B`
+- Literatürde atlanan küçük dokuların tanısal sorun yaratmadığına dair çalışmalar var.
+  - Ama bu patolog obsesyonuna çare değil. 
+
 
 :::
 
@@ -157,14 +166,18 @@ Content for `Tab B`
 
 ::: {.panel-tabset}
 
+### Zorluklar
+
+- Her zaman, her yerde çalışma.
+
+
 ### Kolaylıklar
 
 - İstediğin zaman, istediğin yerde çalışabilme.  
 - Şehir, ülke, saat sınırlaması kalmadı. 
+- Yurtdışında çoğu merkez konsültasyon için dijital görüntüleri kabul etmeye başladı. 
+- Konsültasyon kolaylaştı. 
 
-### Zorluklar
-
-- Her zaman her yerde çalışma.
 
 :::
 

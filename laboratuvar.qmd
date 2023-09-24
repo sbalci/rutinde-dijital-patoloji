@@ -23,6 +23,11 @@
 
 ### Zorluklar
 
+- Tüm basamaklarda barkod gerekli
+- Farklı firmalara ait cihazlarda ortak kod oluşturmalı
+- Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
+
+
 ![](./media/datamatrix-denemeler.jpeg)
 ![](./media/datamatrix-kotu-taranmis.jpg)
 
@@ -30,6 +35,10 @@
 
 
 ### Kolaylıklar
+
+- Biyopsi numarası, Blok numarası, Boya ismi
+- Vakanın takibi, kontrol basamakları
+- Geri dönük tarama
 
 ![](./media/datamatrix-1.jpeg)
 
@@ -41,6 +50,10 @@
 
 
 ## Makroskopi
+
+- Makroskopik görünütler biyopsi numaraları ile eşleşir
+- Görüntüler raporlama sırasında erişilebilir
+
 
 ![](./media/makroskopi.jpg)
 
@@ -148,7 +161,7 @@ Content for `Tab B`
 
 ![](./media/artefakt-2.png)
 
-{{< video ./media/artefakt-yapay-zeka.mp4 >}}
+{{< video ./media/artefakt-yapay-zeka-2.mp4 >}}
 
 
 
