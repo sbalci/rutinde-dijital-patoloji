@@ -224,7 +224,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 
 
-## Görüntünün Dijitalleştirilmesi <br> Patolojinin Verileştirilmesi
+## Görüntünün Dijitalleştirilmesi <br> Patolojinin Verileştirilmesi <br> Sayısal Patoloji 
 
 ::: {.columns}
 

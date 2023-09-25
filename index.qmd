@@ -73,3 +73,19 @@ title-slide-attributes:
 {{< include baska-sefere.qmd >}}
 
 {{< include tesekkur.qmd >}}
+
+
+
+::: {.notes}
+- [Günlük Pratiğimizde Dijital Patoloji](https://docs.google.com/presentation/d/1fEoaAVI-Jegt7OFZKPnnFLvhnF8swvpP6sEhoKDSFa8/)
+
+- [Dijital Patolojiye Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit#heading=h.vk8e6k5f2h73)
+
+- [Patolojide Yapay Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit#slide=id.p)
+
+- [Leeds Guide to Digital Pathology](https://www.serdarbalci.com/edufiles/18778_Leeds_Guide_to_Digital_Pathology_Brochure_A4_final_hi.pdf)
+
+- [The Leeds Guide to Digital Pathology Volume 2](https://www.serdarbalci.com/edufiles/Horizontal_Leeds_guide_032222_whtpg1.pdf)
+
+:::
+

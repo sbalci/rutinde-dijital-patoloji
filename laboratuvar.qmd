@@ -110,6 +110,8 @@ Content for `Tab B`
 
 ![](./media/preparat-temizlik.JPG)
 
+![](./media/lam-temiz-goruntu-temiz.png)
+
 ::: {.panel-tabset}
 
 ### Zorluklar
@@ -124,6 +126,13 @@ Content for `Tab B`
 
 
 ## Doku sanılan artefaktlar
+
+![](./media/doku-sanilan-artefaktlar.png)
+
+![](./media/doku-sanilan-artefaktlar-GMS-1.png)
+
+
+![](./media/doku-sanilan-artefaktlar-GMS-2.png)
 
 
 ::: {.panel-tabset}
@@ -141,6 +150,7 @@ Content for `Tab B`
 
 ## Odaklanma sorunu
 
+![](./media/odaklama.png)
 
 ::: {.panel-tabset}
 

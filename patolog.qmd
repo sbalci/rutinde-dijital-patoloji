@@ -2,17 +2,20 @@
 
 ## Alışkanlıklar
 
-![](./media/patolog-cekinceler.png)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+![](./media/patolog-cekinceler.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+Validasyon çalışmaları: Alışma süreci
+
+
+
 
 :::
 
@@ -115,7 +118,7 @@ lam üzeri
 
 ### Kolaylıklar
 
-Content for `Tab B`
+
 
 :::
 
@@ -135,11 +138,19 @@ Content for `Tab B`
 
 ### Kolaylıklar
 
+- Boş şeritleri atlayarak tarama.
+- Otomatik doku tespiti. 
+- Alan seçerek tarama. 
 - Literatürde atlanan küçük dokuların tanısal sorun yaratmadığına dair çalışmalar var.
   - Ama bu patolog obsesyonuna çare değil. 
 
 
 :::
+
+:::{.footer}
+Potential quality pitfalls of digitalized whole slide image of breast pathology in routine practice <br> Mod Pathol 35, 903–910 (2022)
+:::
+
 
 
 ## Lamın tümüne baktık mı?

@@ -23,10 +23,21 @@
   - Mega kaset
 
 ### Arayüz
+- Patolojiye uygun arayüz
+- Sanal mape
+- Annotasyon / İşaretleme
 
 ### Araştırma
+- Vaka seçimi
+- Rapor etiketlemesi
+  - Metin madenciliği
+- Görüntülerin export edilmesi
+- Anonimleştirme
 
 ### Yapay Zeka
+- Yapay zeka hangi lamlarda kullanılabilir.
+- Lokal mi, bulut mu?
+
 
 :::
 

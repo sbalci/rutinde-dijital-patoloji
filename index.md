@@ -290,7 +290,7 @@ Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğra
 
 
 
-## Görüntünün Dijitalleştirilmesi <br> Patolojinin Verileştirilmesi
+## Görüntünün Dijitalleştirilmesi <br> Patolojinin Verileştirilmesi <br> Sayısal Patoloji 
 
 ::: {.columns}
 
@@ -505,6 +505,8 @@ Content for `Tab B`
 
 ![](./media/preparat-temizlik.JPG)
 
+![](./media/lam-temiz-goruntu-temiz.png)
+
 ::: {.panel-tabset}
 
 ### Zorluklar
@@ -519,6 +521,13 @@ Content for `Tab B`
 
 
 ## Doku sanılan artefaktlar
+
+![](./media/doku-sanilan-artefaktlar.png)
+
+![](./media/doku-sanilan-artefaktlar-GMS-1.png)
+
+
+![](./media/doku-sanilan-artefaktlar-GMS-2.png)
 
 
 ::: {.panel-tabset}
@@ -536,6 +545,7 @@ Content for `Tab B`
 
 ## Odaklanma sorunu
 
+![](./media/odaklama.png)
 
 ::: {.panel-tabset}
 
@@ -623,17 +633,20 @@ Content for `Tab B`
 
 ## Alışkanlıklar
 
-![](./media/patolog-cekinceler.png)
 
 ::: {.panel-tabset}
 
 ### Zorluklar
 
-Content for `Tab A`
+![](./media/patolog-cekinceler.png)
+
 
 ### Kolaylıklar
 
-Content for `Tab B`
+Validasyon çalışmaları: Alışma süreci
+
+
+
 
 :::
 
@@ -667,7 +680,7 @@ Content for `Tab B`
 
 ::: {.panel-tabset}
 
-### Zorluklar <br> Kas hafızası
+### Zorluklar
 
 - Yeni kuşak patolojinin yeni ergonomi sorunları
 - Kas hafızası 
@@ -688,7 +701,7 @@ Content for `Tab B`
 {{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}}
 
 
-{{< video ./media/navigation-digital-pathology.mp4 width="100%" >}}
+{{< video ./media/navigation-digital-pathology.mp4 >}}
 
 
 
@@ -739,7 +752,7 @@ lam üzeri
 
 ### Kolaylıklar
 
-Content for `Tab B`
+
 
 :::
 
@@ -759,11 +772,19 @@ Content for `Tab B`
 
 ### Kolaylıklar
 
+- Boş şeritleri atlayarak tarama.
+- Otomatik doku tespiti. 
+- Alan seçerek tarama. 
 - Literatürde atlanan küçük dokuların tanısal sorun yaratmadığına dair çalışmalar var.
   - Ama bu patolog obsesyonuna çare değil. 
 
 
 :::
+
+:::{.footer}
+Potential quality pitfalls of digitalized whole slide image of breast pathology in routine practice <br> Mod Pathol 35, 903–910 (2022)
+:::
+
 
 
 ## Lamın tümüne baktık mı?
@@ -792,7 +813,8 @@ Content for `Tab B`
 
 ### Zorluklar
 
-- Her zaman her yerde çalışma.
+- Her zaman, her yerde çalışma.
+
 
 ### Kolaylıklar
 
@@ -867,10 +889,21 @@ Content for `Tab B`
   - Mega kaset
 
 ### Arayüz
+- Patolojiye uygun arayüz
+- Sanal mape
+- Annotasyon / İşaretleme
 
 ### Araştırma
+- Vaka seçimi
+- Rapor etiketlemesi
+  - Metin madenciliği
+- Görüntülerin export edilmesi
+- Anonimleştirme
 
 ### Yapay Zeka
+- Yapay zeka hangi lamlarda kullanılabilir.
+- Lokal mi, bulut mu?
+
 
 :::
 
@@ -966,4 +999,21 @@ Atlas](https://www.histopathologyatlas.com/)
 :::
 
 ![](./media/memorial-logo.gif){.absolute left="35%" width="20%"}
+
+
+
+
+
+::: {.notes}
+- [Günlük Pratiğimizde Dijital Patoloji](https://docs.google.com/presentation/d/1fEoaAVI-Jegt7OFZKPnnFLvhnF8swvpP6sEhoKDSFa8/)
+
+- [Dijital Patolojiye Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit#heading=h.vk8e6k5f2h73)
+
+- [Patolojide Yapay Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit#slide=id.p)
+
+- [Leeds Guide to Digital Pathology](https://www.serdarbalci.com/edufiles/18778_Leeds_Guide_to_Digital_Pathology_Brochure_A4_final_hi.pdf)
+
+- [The Leeds Guide to Digital Pathology Volume 2](https://www.serdarbalci.com/edufiles/Horizontal_Leeds_guide_032222_whtpg1.pdf)
+
+:::
 
