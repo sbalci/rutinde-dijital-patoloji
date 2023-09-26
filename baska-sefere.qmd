@@ -17,6 +17,7 @@
 - Racklardaki boşluklar
 - Taramanın durdurulması
 - Tarama kalitesi
+- 20x vs 40x
 - Farklı lamlar
   - Cam lamel
   - Kalın lam

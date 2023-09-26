@@ -215,7 +215,7 @@ An augmented reality microscope with real-time artificial intelligence integrati
 
 Kullanım ihtiyacınıza göre.
 
-### Tarayıcı Olunca Dijital Patolojiye Geçmiş Olur muyuz? 
+### Tarayıcı Olunca Dijital <br> Patolojiye Geçmiş Olur muyuz?
 
 Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
 

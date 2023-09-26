@@ -281,7 +281,7 @@ An augmented reality microscope with real-time artificial intelligence integrati
 
 Kullanım ihtiyacınıza göre.
 
-### Tarayıcı Olunca Dijital Patolojiye Geçmiş Olur muyuz? 
+### Tarayıcı Olunca Dijital <br> Patolojiye Geçmiş Olur muyuz?
 
 Tüm laboratuvarın entegre olmadığı bir durumda scanner pahalı bir fotoğraf makinası olarak kalacaktır.
 
@@ -395,79 +395,99 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 
 # Laboratuvar
 
-## Analitik Süreç
-
-::: {.panel-tabset}
-
-### Eski Analitikler
-
-![](./media/eski-preanalitikler.mmd.png)
-
-### Yeni Preanalitikler
-
-![](./media/yeni-preanalitikler.mmd.png)
+## Alışkanlıklar
 
 
-:::
-
-
-
-## Barkod, Karekod, Datamatrix
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
-- Tüm basamaklarda barkod gerekli
-- Farklı firmalara ait cihazlarda ortak kod oluşturmalı
-- Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
-
-
-![](./media/datamatrix-denemeler.jpeg)
-![](./media/datamatrix-kotu-taranmis.jpg)
-
-![](./media/makinanin-insanin-okudugu.png)
-
+- İşe eklenen bir basamak daha. 
+- Nazlı bir basamak, onun yüzünden tüm laboratuvar huy değiştirmek zorunda.
 
 ### Kolaylıklar
 
-- Biyopsi numarası, Blok numarası, Boya ismi
-- Vakanın takibi, kontrol basamakları
-- Geri dönük tarama
-
-![](./media/datamatrix-1.jpeg)
-
-
-![](./media/sanal-mape-2.png)
+- Cihazı rutin laboratuvar içine koyun.
+- Alışması daha kolay.
 
 :::
 
+## Analitik Süreç
 
+::: panel-tabset
+### Eski Analitikler
+
+![](./media/eski-preanalitikler.mmd.png){fig-align="center"}
+
+### Yeni Preanalitikler
+
+![](./media/yeni-preanalitikler.mmd.png){fig-align="center"}
+:::
+
+## Barkod, Karekod, Datamatrix
+
+::: panel-tabset
+### Zorluklar
+
+-   Tüm basamaklarda barkod gerekli
+-   Farklı firmalara ait cihazlarda ortak kod oluşturmalı
+  - Cihazlar arası geçişte manuel yazım olmamalı
+-   Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
+- Barkod olmazsa
+  - Uyumsuz olarak belirlenip geçici alana kopyalanıyor
+  - El ile bunları taşımak gerekiyor
+  - Bu sırada hatalar oluyor
+  - Geçici alanda biriken dosyalar sistemin performansını düşürüyor
+  - Lamdan haberi olmayan patolog raporu o lama bakmadan yazabiliyor
+
+
+![](./media/datamatrix-denemeler.jpeg){fig-align="center"}
+
+![](./media/datamatrix-kotu-taranmis.jpg){fig-align="center"}
+
+![](./media/makinanin-insanin-okudugu.png){fig-align="center"}
+
+![](./media/datamatrix-encoding.png){fig-align="center"}
+
+### Kolaylıklar
+
+-   Biyopsi numarası, Blok numarası, Boya ismi
+-   Vakanın takibi, kontrol basamakları
+-   Geri dönük tarama
+-   Sanal mapenin düzgün oluşması
+  - Lamların sıralı dizilmesi
+  - HE ve Özel boyaların sıralı dizilmesi
+- İlgili algoritması çalışacak lamların tespiti
+  - Ki-67 düzgün bir şekilde düzgün yere yazılırsa bu lamda algoritma taramadan hemen sonra çalışacaktır. Aksi halde algoritmayı manuel çalıştırmak gerekecek. 
+  - Prostat algoritmasını sadece tru-cut ise çalıştır
+
+
+![](./media/datamatrix-1.jpeg){fig-align="center"}
+
+![](./media/sanal-mape-2.png){fig-align="center"}
+
+![](./media/sanal-mape-4.png){fig-align="center"}
+
+
+:::
 
 ## Makroskopi
 
-- Makroskopik görünütler biyopsi numaraları ile eşleşir
-- Görüntüler raporlama sırasında erişilebilir
+-   Makroskopik görünütler biyopsi numaraları ile eşleşir
+-   Görüntüler raporlama sırasında erişilebilir
 
+![](./media/makroskopi.jpg){fig-align="center"}
 
-![](./media/makroskopi.jpg)
+![](./media/makroskopi.png){fig-align="center"}
 
-![](./media/makroskopi.png)
+![](./media/belgeler-mikroskopi-makroskopi-video-1.png){fig-align="center"}
 
-![](./media/belgeler-mikroskopi-makroskopi-video-1.png)
-
-
-![](./media/belgeler-mikroskopi-makroskopi-video-2.png)
-
-
+![](./media/belgeler-mikroskopi-makroskopi-video-2.png){fig-align="center"}
 
 ## Gömme {auto-animate="true"}
 
-
 Düzenli gömme
 
-Bıçağa göre açılı gömme vs düz gömme 
-
+Bıçağa göre açılı gömme vs düz gömme
 
 ## Kesit {auto-animate="true"}
 
@@ -477,19 +497,15 @@ Kesitin merkezde olması
 
 Katlantılar
 
-
 ## Kapama
 
+![](./media/lamlarin-dizilmesi.JPG){fig-align="center"}
 
-![](./media/lamlarin-dizilmesi.JPG)
+![](./media/lamlarin-dizilmesi-2.JPG){fig-align="center"}
 
+![](./media/uygun-olmayan-kapama.png){fig-align="center"}
 
-
-![](./media/lamlarin-dizilmesi-2.JPG)
-
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
 Content for `Tab A`
@@ -497,18 +513,15 @@ Content for `Tab A`
 ### Kolaylıklar
 
 Content for `Tab B`
-
 :::
-
 
 ## Temizlik
 
-![](./media/preparat-temizlik.JPG)
+![](./media/preparat-temizlik.JPG){fig-align="center"}
 
-![](./media/lam-temiz-goruntu-temiz.png)
+![](./media/lam-temiz-goruntu-temiz.png){fig-align="center"}
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
 Content for `Tab A`
@@ -516,22 +529,17 @@ Content for `Tab A`
 ### Kolaylıklar
 
 Content for `Tab B`
-
 :::
-
 
 ## Doku sanılan artefaktlar
 
-![](./media/doku-sanilan-artefaktlar.png)
+![](./media/doku-sanilan-artefaktlar.png){fig-align="center"}
 
-![](./media/doku-sanilan-artefaktlar-GMS-1.png)
+![](./media/doku-sanilan-artefaktlar-GMS-1.png){fig-align="center"}
 
+![](./media/doku-sanilan-artefaktlar-GMS-2.png){fig-align="center"}
 
-![](./media/doku-sanilan-artefaktlar-GMS-2.png)
-
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
 Content for `Tab A`
@@ -539,16 +547,13 @@ Content for `Tab A`
 ### Kolaylıklar
 
 Content for `Tab B`
-
 :::
-
 
 ## Odaklanma sorunu
 
-![](./media/odaklama.png)
+![](./media/odaklama.png){fig-align="center"}
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
 Content for `Tab A`
@@ -556,78 +561,75 @@ Content for `Tab A`
 ### Kolaylıklar
 
 Content for `Tab B`
-
 :::
-
 
 ## Kalibrasyon
 
-![](./media/artefakt-1.png)
+![](./media/artefakt-1.png){fig-align="center"}
 
-![](./media/artefakt-2.png)
+![](./media/artefakt-2.png){fig-align="center"}
 
 
 {{< video ./media/artefakt-yapay-zeka-2.mp4 >}}
 
 
 
-
-
 ## Hastane BYS, Laboratuvar BYS
 
-
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
-- Farklı firmalar. 
-- Değişen firmalar. 
+-   Farklı firmalar.
+-   Değişen firmalar.
 
 ### Kolaylıklar
 
-- Entegre sistem ile tüm kliniğe ve eski tetkiklere kolay ulaşım.
-
+-   Entegre sistem ile tüm kliniğe ve eski tetkiklere kolay ulaşım.
 :::
-
 
 ## PACS, Depo, Arşiv
 
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Zorluklar
 
+![](./media/kumulatif-toplam.jpeg){fig-align="center"}
 
-![](./media/kumulatif-toplam.jpeg)
+![](./media/dijital-kapasite-2.png){fig-align="center"}
 
-![](./media/dijital-kapasite-2.png)
-
+![](./media/what-is-petabyte.png)
 
 ### Kolaylıklar
-
-Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
+- Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
+- Lamlar soluyor, tozlanıyor, çiziliyor. 
 
 :::
 
+## Hangi Arşiv?
+
+::: panel-tabset
+
+### Kağıt ve cam arşiv
+
+
+### Dijital arşiv
+
+
+:::
 
 ## İş Akışı
 
-
-::: {.panel-tabset}
+::: panel-tabset
 
 ### Zorluklar
 
-Content for `Tab A`
+![](./media/is-akisi-yari-dijital.png)
 
 ### Kolaylıklar
 
-Content for `Tab B`
+![](./media/is-akisi-tam-dijital.png)
+
 
 :::
-
-
-
 
 # Patolog
 
@@ -643,10 +645,7 @@ Content for `Tab B`
 
 ### Kolaylıklar
 
-Validasyon çalışmaları: Alışma süreci
-
-
-
+- Validasyon çalışmaları: Alışma süreci
 
 :::
 
@@ -668,14 +667,25 @@ Validasyon çalışmaları: Alışma süreci
 
 ### Kolaylıklar
 
-- Geniş alan
+- Geniş alanda bakma.
+- 1x, 2x büyütme
+
+![](./media/leeds-screen-test.png)
+
+- ICC profile
+
+![](./media/leeds-screen-test-2.png)
+
+
+:::{.aside}
+[Point of Use QA Pathology](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/pathology/)
+:::
 
 :::
 
 
 
 ## Navigasyon
-
 
 
 ::: {.panel-tabset}
@@ -704,13 +714,18 @@ Validasyon çalışmaları: Alışma süreci
 {{< video ./media/navigation-digital-pathology.mp4 >}}
 
 
+{{< video ./media/sectra-middle-click-pan-image.mp4 >}}
+
+
+{{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}}
+
 
 
 
 :::
 
 
-## Navigasyon <br> Çoklu Ekran
+## Navigasyon <br> Çoklu (Senkron) Ekran
 
 
 
@@ -718,7 +733,9 @@ Validasyon çalışmaları: Alışma süreci
 
 ## Not yazma
 
+Lama not ile ilgili mape fotoğrafı
 
+Dijital radikal not fotoğrafı
 
 ::: {.panel-tabset}
 
@@ -728,14 +745,19 @@ Content for `Tab A`
 
 ### Kolaylıklar
 
-Content for `Tab B`
+![](./media/standardized-clinical-annotation.jpg)
+::: {.aside}
+Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis <br>
+Modern Pathology Volume 36, Issue 11, November 2023, 100297
+:::
+
 
 :::
 
 
-::: {.r-fit-text}
-lam üzeri
-:::
+
+
+
 
 ## Vakanın tümü tarandı mı?
 
@@ -752,6 +774,11 @@ lam üzeri
 
 ### Kolaylıklar
 
+- Eğer PBYS yeterli ise her lamın bilgisi olacağından eksik lamlar tespit edilecektir.
+- Sadece blok sayısını karşılaştırmak yeterli değil:
+  - Sitoloji
+  - (İmmüno)histokimya
+  - yeni kesitler, çoklu kesitler
 
 
 :::
@@ -762,6 +789,11 @@ lam üzeri
 
 ![](./media/eksik-tarama.png)
 
+![](./media/eksik-doku.png)
+
+![](./media/eksik-doku-2.png)
+
+![](./media/bosluklar.png)
 
 ::: {.panel-tabset}
 
@@ -822,6 +854,9 @@ Content for `Tab B`
 - Şehir, ülke, saat sınırlaması kalmadı. 
 - Yurtdışında çoğu merkez konsültasyon için dijital görüntüleri kabul etmeye başladı. 
 - Konsültasyon kolaylaştı. 
+- İş listeleri
+
+![]() iş listesi görüntüsü eklenecek
 
 
 :::
@@ -883,6 +918,7 @@ Content for `Tab B`
 - Racklardaki boşluklar
 - Taramanın durdurulması
 - Tarama kalitesi
+- 20x vs 40x
 - Farklı lamlar
   - Cam lamel
   - Kalın lam

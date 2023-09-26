@@ -12,10 +12,7 @@
 
 ### Kolaylıklar
 
-Validasyon çalışmaları: Alışma süreci
-
-
-
+- Validasyon çalışmaları: Alışma süreci
 
 :::
 
@@ -37,14 +34,25 @@ Validasyon çalışmaları: Alışma süreci
 
 ### Kolaylıklar
 
-- Geniş alan
+- Geniş alanda bakma.
+- 1x, 2x büyütme
+
+![](./media/leeds-screen-test.png)
+
+- ICC profile
+
+![](./media/leeds-screen-test-2.png)
+
+
+:::{.aside}
+[Point of Use QA Pathology](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/pathology/)
+:::
 
 :::
 
 
 
 ## Navigasyon
-
 
 
 ::: {.panel-tabset}
@@ -72,11 +80,16 @@ Validasyon çalışmaları: Alışma süreci
 {{< video ./media/navigation-digital-pathology.mp4 >}}
 
 
+{{< video ./media/sectra-middle-click-pan-image.mp4 >}}
+
+
+{{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}}
+
 
 :::
 
 
-## Navigasyon <br> Çoklu Ekran
+## Navigasyon <br> Çoklu (Senkron) Ekran
 
 
 
@@ -84,7 +97,9 @@ Validasyon çalışmaları: Alışma süreci
 
 ## Not yazma
 
+Lama not ile ilgili mape fotoğrafı
 
+Dijital radikal not fotoğrafı
 
 ::: {.panel-tabset}
 
@@ -94,14 +109,19 @@ Content for `Tab A`
 
 ### Kolaylıklar
 
-Content for `Tab B`
+![](./media/standardized-clinical-annotation.jpg)
+::: {.aside}
+Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis <br>
+Modern Pathology Volume 36, Issue 11, November 2023, 100297
+:::
+
 
 :::
 
 
-::: {.r-fit-text}
-lam üzeri
-:::
+
+
+
 
 ## Vakanın tümü tarandı mı?
 
@@ -118,6 +138,11 @@ lam üzeri
 
 ### Kolaylıklar
 
+- Eğer PBYS yeterli ise her lamın bilgisi olacağından eksik lamlar tespit edilecektir.
+- Sadece blok sayısını karşılaştırmak yeterli değil:
+  - Sitoloji
+  - (İmmüno)histokimya
+  - yeni kesitler, çoklu kesitler
 
 
 :::
@@ -128,6 +153,11 @@ lam üzeri
 
 ![](./media/eksik-tarama.png)
 
+![](./media/eksik-doku.png)
+
+![](./media/eksik-doku-2.png)
+
+![](./media/bosluklar.png)
 
 ::: {.panel-tabset}
 
@@ -188,6 +218,9 @@ Content for `Tab B`
 - Şehir, ülke, saat sınırlaması kalmadı. 
 - Yurtdışında çoğu merkez konsültasyon için dijital görüntüleri kabul etmeye başladı. 
 - Konsültasyon kolaylaştı. 
+- İş listeleri
+
+![]() iş listesi görüntüsü eklenecek
 
 
 :::
