@@ -19,7 +19,7 @@
 ## Analitik Süreç
 
 ::: panel-tabset
-### Eski Analitikler
+### Eski Preanalitikler
 
 ![](./media/eski-preanalitikler.mmd.png){fig-align="center"}
 
@@ -34,9 +34,27 @@
 ### Zorluklar
 
 -   Tüm basamaklarda barkod gerekli
+
+![](./media/datamatrix-1.jpeg){fig-align="center" width="30%"}
+
+
+
+![](./media/datamatrix-denemeler.jpeg){fig-align="center" width="30%"}
+
+
 -   Farklı firmalara ait cihazlarda ortak kod oluşturmalı
   - Cihazlar arası geçişte manuel yazım olmamalı
 -   Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
+
+
+![](./media/datamatrix-kotu-taranmis.jpg){fig-align="center" width="30%"}
+
+
+
+![](./media/makinanin-insanin-okudugu.png){fig-align="center"}
+
+
+
 - Barkod olmazsa
   - Uyumsuz olarak belirlenip geçici alana kopyalanıyor
   - El ile bunları taşımak gerekiyor
@@ -44,33 +62,32 @@
   - Geçici alanda biriken dosyalar sistemin performansını düşürüyor
   - Lamdan haberi olmayan patolog raporu o lama bakmadan yazabiliyor
 
+- Barkod yok, kaos var. 
 
-![](./media/datamatrix-denemeler.jpeg){fig-align="center"}
-
-![](./media/datamatrix-kotu-taranmis.jpg){fig-align="center"}
-
-![](./media/makinanin-insanin-okudugu.png){fig-align="center"}
-
-![](./media/datamatrix-encoding.png){fig-align="center"}
 
 ### Kolaylıklar
 
 -   Biyopsi numarası, Blok numarası, Boya ismi
 -   Vakanın takibi, kontrol basamakları
 -   Geri dönük tarama
+
+
 -   Sanal mapenin düzgün oluşması
   - Lamların sıralı dizilmesi
   - HE ve Özel boyaların sıralı dizilmesi
+
+![](./media/sanal-mape-2.png){fig-align="center"}
+
+![](./media/sanal-mape-4.png){fig-align="center"}
+
+
 - İlgili algoritması çalışacak lamların tespiti
   - Ki-67 düzgün bir şekilde düzgün yere yazılırsa bu lamda algoritma taramadan hemen sonra çalışacaktır. Aksi halde algoritmayı manuel çalıştırmak gerekecek. 
   - Prostat algoritmasını sadece tru-cut ise çalıştır
 
 
-![](./media/datamatrix-1.jpeg){fig-align="center"}
+![](./media/datamatrix-encoding.png){fig-align="center"}
 
-![](./media/sanal-mape-2.png){fig-align="center"}
-
-![](./media/sanal-mape-4.png){fig-align="center"}
 
 
 :::
@@ -80,13 +97,21 @@
 -   Makroskopik görünütler biyopsi numaraları ile eşleşir
 -   Görüntüler raporlama sırasında erişilebilir
 
-![](./media/makroskopi.jpg){fig-align="center"}
+<!-- ![](./media/makroskopi.jpg){fig-align="center"} -->
 
-![](./media/makroskopi.png){fig-align="center"}
+<!-- ![](./media/makroskopi.png){fig-align="center"} -->
 
 ![](./media/belgeler-mikroskopi-makroskopi-video-1.png){fig-align="center"}
 
 ![](./media/belgeler-mikroskopi-makroskopi-video-2.png){fig-align="center"}
+
+![](./media/belgeler-mikroskopi-makroskopi-video-3.png){fig-align="center"}
+
+
+![](./media/belgeler-mikroskopi-makroskopi-video-4.png){fig-align="center"}
+
+
+
 
 ## Gömme {auto-animate="true"}
 
@@ -96,6 +121,31 @@ Bıçağa göre açılı gömme vs düz gömme
 
 ## Kesit {auto-animate="true"}
 
+- 952 MB (40x)
+![](./media/952MB-40x.jpg)
+
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- 106 MB
+
+![](media/106MB.jpg)
+
+:::
+
+::: {.column width="50%"}
+- 99 MB
+
+![](./media/99MB.jpg)
+
+:::
+
+::::
+
+
+
 Kesit kalınlığı
 
 Kesitin merkezde olması
@@ -104,21 +154,19 @@ Katlantılar
 
 ## Kapama
 
+- Baloncuk
+- Lam ve lamel kalınlığı
+
 ![](./media/lamlarin-dizilmesi.JPG){fig-align="center"}
 
 ![](./media/lamlarin-dizilmesi-2.JPG){fig-align="center"}
 
+
+- Sığmayan lamları zorlamamak lazım
+
+
 ![](./media/uygun-olmayan-kapama.png){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Temizlik
 
@@ -126,47 +174,21 @@ Content for `Tab B`
 
 ![](./media/lam-temiz-goruntu-temiz.png){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
 
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Doku sanılan artefaktlar
 
 ![](./media/doku-sanilan-artefaktlar.png){fig-align="center"}
 
-![](./media/doku-sanilan-artefaktlar-GMS-1.png){fig-align="center"}
+<!-- ![](./media/doku-sanilan-artefaktlar-GMS-1.png){fig-align="center"} -->
 
-![](./media/doku-sanilan-artefaktlar-GMS-2.png){fig-align="center"}
+<!-- ![](./media/doku-sanilan-artefaktlar-GMS-2.png){fig-align="center"} -->
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Odaklanma sorunu
 
-![](./media/odaklama.png){fig-align="center"}
+![](./media/odaklama.jpg){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Kalibrasyon
 
@@ -201,8 +223,9 @@ Content for `Tab B`
 ![](./media/what-is-petabyte.png)
 
 ### Kolaylıklar
-- Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
-- Lamlar soluyor, tozlanıyor, çiziliyor. 
+- Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme. 
+- Fiziki arşiv hala en iyi yedek.  
+  - Ama lamlar soluyor, tozlanıyor, çiziliyor. 
 
 :::
 

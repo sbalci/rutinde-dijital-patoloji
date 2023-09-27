@@ -14,6 +14,19 @@
 :::
 
 
+
+::: panel-tabset
+### Zorluklar
+
+Content for `Tab A`
+
+### Kolaylıklar
+
+Content for `Tab B`
+:::
+
+
+
 :::: {.columns}
 
 ::: {.column width="40%"}
