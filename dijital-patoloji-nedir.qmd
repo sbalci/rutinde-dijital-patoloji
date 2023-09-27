@@ -3,7 +3,7 @@
 
 ## Dijital Patoloji Nedir Ki? {fullscreen=true}
 
-![](./media/scanner-room.jpg)
+![](./media/scanner-room.jpg){fig-align="center"}
 
 ::: {.notes}
 Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
@@ -15,7 +15,7 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 :::: {.columns}
 
 ::: {.column width="70%"}
-![](./media/scanner-room-2.jpg)
+![](./media/scanner-room-2.jpg){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
@@ -64,11 +64,12 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](./media/telefon-panoromik-cekim.JPG)
+![](./media/telefon-panoromik-cekim.JPG){fig-align="center"}
+
 :::
 
 ::: {.column width="50%"}
-![](./media/mikroskop-atacman-selobant-4.jpeg)
+![](./media/mikroskop-atacman-selobant-4.jpeg){fig-align="center"}
 :::
 ::::
 
@@ -86,14 +87,14 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 ::: {.column width="50%"}
 
-![](./media/frozen-1.jpg)
+![](./media/frozen-1.jpg){fig-align="center"}
 
 ::: 
 
 
 ::: {.column width="50%"}
 
-![](./media/frozen-2.jpg)
+![](./media/frozen-2.jpg){fig-align="center"}
 
 :::
 
@@ -151,7 +152,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 ## Dijital Patoloji <br> Araştırma
 
-![](./media/analysis-of-application-of-digital-image.jpg){.absolute left=50 height="60%"}
+![](./media/analysis-of-application-of-digital-image.jpg){fig-align="center"}
 
 
 ::: {.footer}

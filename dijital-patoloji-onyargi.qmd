@@ -11,7 +11,7 @@
 ::::
 
 
-# Dijital Patoloji Nedir?
+# Dijital Patoloji
 
 
 ::: {.panel-tabset}

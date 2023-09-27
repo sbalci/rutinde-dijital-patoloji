@@ -44,7 +44,7 @@
 ![](./media/leeds-screen-test-2.png)
 
 
-:::{.aside}
+:::{.footer}
 [Point of Use QA Pathology](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/pathology/)
 :::
 
@@ -62,9 +62,10 @@
 - Yeni kuşak patolojinin yeni ergonomi sorunları
 - Kas hafızası 
 
-<!--
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
--->
+<!-- [![](./media/magnus-muscle-memory.png)](https://twitter.com/FIDE_chess/status/1693220998202499482) -->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Kolaylıklar
 
@@ -74,7 +75,7 @@
 ![](./media/navigasyon-mouse.jpg)
 
 
-{{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}}
+<!-- {{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}} -->
 
 
 {{< video ./media/navigation-digital-pathology.mp4 >}}
@@ -83,7 +84,7 @@
 {{< video ./media/sectra-middle-click-pan-image.mp4 >}}
 
 
-{{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}}
+<!-- {{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}} -->
 
 
 :::
@@ -92,30 +93,31 @@
 ## Navigasyon <br> Çoklu (Senkron) Ekran
 
 
-
+{{< video ./media/coklu-senkron-ekran.mp4 >}}
 
 
 ## Not yazma
 
-Lama not ile ilgili mape fotoğrafı
+- Manuel notlar
 
-Dijital radikal not fotoğrafı
+![](./media/mapeye-not.png)
 
-::: {.panel-tabset}
 
-### Zorluklar
+- Dijital notlar
 
-Content for `Tab A`
+![](./media/dijitale-not.jpg)
 
-### Kolaylıklar
+
+
+- Standart notlar?
+
 
 ![](./media/standardized-clinical-annotation.jpg)
-::: {.aside}
+
+
+::: {.footer}
 Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis <br>
 Modern Pathology Volume 36, Issue 11, November 2023, 100297
-:::
-
-
 :::
 
 
@@ -126,7 +128,7 @@ Modern Pathology Volume 36, Issue 11, November 2023, 100297
 ## Vakanın tümü tarandı mı?
 
 
-![](./media/sectra-inceleme-etkinlik-izi.jpg)
+<!-- ![](./media/sectra-inceleme-etkinlik-izi.jpg) -->
 
 ::: {.panel-tabset}
 
@@ -159,6 +161,11 @@ Modern Pathology Volume 36, Issue 11, November 2023, 100297
 
 ![](./media/bosluklar.png)
 
+
+
+## Lamın tümü tarandı mı?
+
+
 ::: {.panel-tabset}
 
 ### Zorluklar
@@ -183,21 +190,20 @@ Potential quality pitfalls of digitalized whole slide image of breast pathology 
 
 
 
+
 ## Lamın tümüne baktık mı?
-
-
-![](./media/navigasyon-preparat.JPG)
-
 
 ::: {.panel-tabset}
 
-### Zorluklar
+### Cama işaretleme
 
-Content for `Tab A`
+![](./media/navigasyon-preparat.jpg)
 
-### Kolaylıklar
 
-Content for `Tab B`
+### Dijital işaretleme
+
+{{< video ./media/sectra-navigasyon-heatmap.mp4 >}}
+
 
 :::
 
@@ -220,7 +226,8 @@ Content for `Tab B`
 - Konsültasyon kolaylaştı. 
 - İş listeleri
 
-![]() iş listesi görüntüsü eklenecek
+![](./media/is-listeleri.jpg)
+
 
 
 :::
