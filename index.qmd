@@ -41,7 +41,7 @@ format:
             }
           });
           </script>
-keep-md: true
+# keep-md: true
 execute:
   # echo: false
   warning: false

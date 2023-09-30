@@ -47,7 +47,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/
 
 # translation temp files
 po/*~
@@ -60,3 +60,8 @@ articles-resources/8840382883926745090.mp4
 articles-resources/Patolojide Yapay Zeka.pptx
 media/sectra-navigasyon-heatmap.mp4
 media/coklu-senkron-ekran.mp4
+docs/media/navigation-digital-pathology.mp4
+docs/media/manuel-dijital-tarama.mp4
+docs/media/coklu-senkron-ekran.mp4
+docs/media/coklu-senkron-ekran.mp4
+*.mp4
