@@ -62,7 +62,7 @@ title-slide-attributes:
 
 ## Dijital Patoloji Nedir Ki? {fullscreen=true}
 
-![](./media/scanner-room.jpg)
+![](./media/scanner-room.jpg){fig-align="center"}
 
 ::: {.notes}
 Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve değişik bir şey olduğu için ona odaklanıyoruz. Ama aslında tarama cihazları dijital patoloji için kısmen gerekli olsalar da yeterli değiller. 
@@ -74,7 +74,7 @@ Dijital patoloji deyince aklımıza hemen scanner geliyor. Koca bir makina ve de
 :::: {.columns}
 
 ::: {.column width="70%"}
-![](./media/scanner-room-2.jpg)
+![](./media/scanner-room-2.jpg){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
@@ -123,11 +123,12 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](./media/telefon-panoromik-cekim.JPG)
+![](./media/telefon-panoromik-cekim.JPG){fig-align="center"}
+
 :::
 
 ::: {.column width="50%"}
-![](./media/mikroskop-atacman-selobant-4.jpeg)
+![](./media/mikroskop-atacman-selobant-4.jpeg){fig-align="center"}
 :::
 ::::
 
@@ -148,14 +149,14 @@ Kısmen gerekli olsalar da dedim, çünkü dijital patolojiyi konsültasyonlar i
 
 ::: {.column width="50%"}
 
-![](./media/frozen-1.jpg)
+![](./media/frozen-1.jpg){fig-align="center"}
 
 ::: 
 
 
 ::: {.column width="50%"}
 
-![](./media/frozen-2.jpg)
+![](./media/frozen-2.jpg){fig-align="center"}
 
 :::
 
@@ -217,7 +218,7 @@ Eğitim için var olan kaynaklar oldukça yeterli, biraz didiklemek gerekiyor.
 
 ## Dijital Patoloji <br> Araştırma
 
-![](./media/analysis-of-application-of-digital-image.jpg){.absolute left=50 height="60%"}
+![](./media/analysis-of-application-of-digital-image.jpg){fig-align="center"}
 
 
 ::: {.footer}
@@ -335,7 +336,7 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 ::::
 
 
-# Dijital Patoloji Nedir?
+# Dijital Patoloji
 
 
 ::: {.panel-tabset}
@@ -414,7 +415,7 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 ## Analitik Süreç
 
 ::: panel-tabset
-### Eski Analitikler
+### Eski Preanalitikler
 
 ![](./media/eski-preanalitikler.mmd.png){fig-align="center"}
 
@@ -429,9 +430,27 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 ### Zorluklar
 
 -   Tüm basamaklarda barkod gerekli
+
+![](./media/datamatrix-1.jpeg){fig-align="center" width="30%"}
+
+
+
+![](./media/datamatrix-denemeler.jpeg){fig-align="center" width="30%"}
+
+
 -   Farklı firmalara ait cihazlarda ortak kod oluşturmalı
   - Cihazlar arası geçişte manuel yazım olmamalı
 -   Cihazların kendine ait işleyiş kodu ile biyopsi numarası aynı kodda farklı olarak yer alması
+
+
+![](./media/datamatrix-kotu-taranmis.jpg){fig-align="center" width="30%"}
+
+
+
+![](./media/makinanin-insanin-okudugu.png){fig-align="center"}
+
+
+
 - Barkod olmazsa
   - Uyumsuz olarak belirlenip geçici alana kopyalanıyor
   - El ile bunları taşımak gerekiyor
@@ -439,33 +458,32 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
   - Geçici alanda biriken dosyalar sistemin performansını düşürüyor
   - Lamdan haberi olmayan patolog raporu o lama bakmadan yazabiliyor
 
+- Barkod yok, kaos var. 
 
-![](./media/datamatrix-denemeler.jpeg){fig-align="center"}
-
-![](./media/datamatrix-kotu-taranmis.jpg){fig-align="center"}
-
-![](./media/makinanin-insanin-okudugu.png){fig-align="center"}
-
-![](./media/datamatrix-encoding.png){fig-align="center"}
 
 ### Kolaylıklar
 
 -   Biyopsi numarası, Blok numarası, Boya ismi
 -   Vakanın takibi, kontrol basamakları
 -   Geri dönük tarama
+
+
 -   Sanal mapenin düzgün oluşması
   - Lamların sıralı dizilmesi
   - HE ve Özel boyaların sıralı dizilmesi
+
+![](./media/sanal-mape-2.png){fig-align="center"}
+
+![](./media/sanal-mape-4.png){fig-align="center"}
+
+
 - İlgili algoritması çalışacak lamların tespiti
   - Ki-67 düzgün bir şekilde düzgün yere yazılırsa bu lamda algoritma taramadan hemen sonra çalışacaktır. Aksi halde algoritmayı manuel çalıştırmak gerekecek. 
   - Prostat algoritmasını sadece tru-cut ise çalıştır
 
 
-![](./media/datamatrix-1.jpeg){fig-align="center"}
+![](./media/datamatrix-encoding.png){fig-align="center"}
 
-![](./media/sanal-mape-2.png){fig-align="center"}
-
-![](./media/sanal-mape-4.png){fig-align="center"}
 
 
 :::
@@ -475,13 +493,21 @@ Applied Immunohistochemistry & Molecular Morphology 31(8):p 531-532, September 2
 -   Makroskopik görünütler biyopsi numaraları ile eşleşir
 -   Görüntüler raporlama sırasında erişilebilir
 
-![](./media/makroskopi.jpg){fig-align="center"}
+<!-- ![](./media/makroskopi.jpg){fig-align="center"} -->
 
-![](./media/makroskopi.png){fig-align="center"}
+<!-- ![](./media/makroskopi.png){fig-align="center"} -->
 
 ![](./media/belgeler-mikroskopi-makroskopi-video-1.png){fig-align="center"}
 
 ![](./media/belgeler-mikroskopi-makroskopi-video-2.png){fig-align="center"}
+
+![](./media/belgeler-mikroskopi-makroskopi-video-3.png){fig-align="center"}
+
+
+![](./media/belgeler-mikroskopi-makroskopi-video-4.png){fig-align="center"}
+
+
+
 
 ## Gömme {auto-animate="true"}
 
@@ -491,6 +517,31 @@ Bıçağa göre açılı gömme vs düz gömme
 
 ## Kesit {auto-animate="true"}
 
+- 952 MB (40x)
+![](./media/952MB-40x.jpg)
+
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- 106 MB
+
+![](media/106MB.jpg)
+
+:::
+
+::: {.column width="50%"}
+- 99 MB
+
+![](./media/99MB.jpg)
+
+:::
+
+::::
+
+
+
 Kesit kalınlığı
 
 Kesitin merkezde olması
@@ -499,21 +550,19 @@ Katlantılar
 
 ## Kapama
 
+- Baloncuk
+- Lam ve lamel kalınlığı
+
 ![](./media/lamlarin-dizilmesi.JPG){fig-align="center"}
 
 ![](./media/lamlarin-dizilmesi-2.JPG){fig-align="center"}
 
+
+- Sığmayan lamları zorlamamak lazım
+
+
 ![](./media/uygun-olmayan-kapama.png){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Temizlik
 
@@ -521,47 +570,21 @@ Content for `Tab B`
 
 ![](./media/lam-temiz-goruntu-temiz.png){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
 
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Doku sanılan artefaktlar
 
 ![](./media/doku-sanilan-artefaktlar.png){fig-align="center"}
 
-![](./media/doku-sanilan-artefaktlar-GMS-1.png){fig-align="center"}
+<!-- ![](./media/doku-sanilan-artefaktlar-GMS-1.png){fig-align="center"} -->
 
-![](./media/doku-sanilan-artefaktlar-GMS-2.png){fig-align="center"}
+<!-- ![](./media/doku-sanilan-artefaktlar-GMS-2.png){fig-align="center"} -->
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Odaklanma sorunu
 
-![](./media/odaklama.png){fig-align="center"}
+![](./media/odaklama.jpg){fig-align="center"}
 
-::: panel-tabset
-### Zorluklar
-
-Content for `Tab A`
-
-### Kolaylıklar
-
-Content for `Tab B`
-:::
 
 ## Kalibrasyon
 
@@ -599,8 +622,9 @@ Content for `Tab B`
 ![](./media/what-is-petabyte.png)
 
 ### Kolaylıklar
-- Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme
-- Lamlar soluyor, tozlanıyor, çiziliyor. 
+- Eski biyopsilere kolayca ulaşıp karşılaştırma yapabilme. 
+- Fiziki arşiv hala en iyi yedek.  
+  - Ama lamlar soluyor, tozlanıyor, çiziliyor. 
 
 :::
 
@@ -677,7 +701,7 @@ Content for `Tab B`
 ![](./media/leeds-screen-test-2.png)
 
 
-:::{.aside}
+:::{.footer}
 [Point of Use QA Pathology](https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/pathology/)
 :::
 
@@ -695,9 +719,10 @@ Content for `Tab B`
 - Yeni kuşak patolojinin yeni ergonomi sorunları
 - Kas hafızası 
 
-<!--
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
--->
+<!-- [![](./media/magnus-muscle-memory.png)](https://twitter.com/FIDE_chess/status/1693220998202499482) -->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your muscle memory kicks in and you try to shake hands before the game, but your opponent is missing! <a href="https://twitter.com/hashtag/FIDEWorldCup?src=hash&amp;ref_src=twsrc%5Etfw">#FIDEWorldCup</a> <a href="https://t.co/yInEUqpyJC">pic.twitter.com/yInEUqpyJC</a></p>&mdash; International Chess Federation (@FIDE_chess) <a href="https://twitter.com/FIDE_chess/status/1693220998202499482?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Kolaylıklar
 
@@ -707,8 +732,8 @@ Content for `Tab B`
 ![](./media/navigasyon-mouse.jpg)
 
 
+<!-- {{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}} -->
 
-{{< video https://www.youtube.com/embed/GFFK-d_Hua8 width="100%" >}}
 
 
 {{< video ./media/navigation-digital-pathology.mp4 >}}
@@ -717,9 +742,9 @@ Content for `Tab B`
 {{< video ./media/sectra-middle-click-pan-image.mp4 >}}
 
 
-{{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}}
 
 
+<!-- {{< video https://www.youtube.com/embed/PkWkjmghLAc width="100%" >}} -->
 
 
 :::
@@ -729,29 +754,33 @@ Content for `Tab B`
 
 
 
+{{< video ./media/coklu-senkron-ekran.mp4 >}}
+
+
 
 
 ## Not yazma
 
-Lama not ile ilgili mape fotoğrafı
+- Manuel notlar
 
-Dijital radikal not fotoğrafı
+![](./media/mapeye-not.png)
 
-::: {.panel-tabset}
 
-### Zorluklar
+- Dijital notlar
 
-Content for `Tab A`
+![](./media/dijitale-not.jpg)
 
-### Kolaylıklar
+
+
+- Standart notlar?
+
 
 ![](./media/standardized-clinical-annotation.jpg)
-::: {.aside}
+
+
+::: {.footer}
 Standardized Clinical Annotation of Digital Histopathology Slides at the Point of Diagnosis <br>
 Modern Pathology Volume 36, Issue 11, November 2023, 100297
-:::
-
-
 :::
 
 
@@ -762,7 +791,7 @@ Modern Pathology Volume 36, Issue 11, November 2023, 100297
 ## Vakanın tümü tarandı mı?
 
 
-![](./media/sectra-inceleme-etkinlik-izi.jpg)
+<!-- ![](./media/sectra-inceleme-etkinlik-izi.jpg) -->
 
 ::: {.panel-tabset}
 
@@ -795,6 +824,11 @@ Modern Pathology Volume 36, Issue 11, November 2023, 100297
 
 ![](./media/bosluklar.png)
 
+
+
+## Lamın tümü tarandı mı?
+
+
 ::: {.panel-tabset}
 
 ### Zorluklar
@@ -819,21 +853,23 @@ Potential quality pitfalls of digitalized whole slide image of breast pathology 
 
 
 
+
 ## Lamın tümüne baktık mı?
-
-
-![](./media/navigasyon-preparat.JPG)
-
 
 ::: {.panel-tabset}
 
-### Zorluklar
+### Cama işaretleme
 
-Content for `Tab A`
+![](./media/navigasyon-preparat.jpg)
 
-### Kolaylıklar
 
-Content for `Tab B`
+### Dijital işaretleme
+
+
+{{< video ./media/sectra-navigasyon-heatmap.mp4 >}}
+
+
+
 
 :::
 
@@ -856,7 +892,8 @@ Content for `Tab B`
 - Konsültasyon kolaylaştı. 
 - İş listeleri
 
-![]() iş listesi görüntüsü eklenecek
+![](./media/is-listeleri.jpg)
+
 
 
 :::
@@ -953,8 +990,8 @@ Content for `Tab B`
 
 
 
-Sonuçta her zorluk bir kolaylıkla beraber geliyor. En iyisi bir işi
-bitirince hemen diğerine başlamak.
+Sonuçta her zorluk bir kolaylıkla beraber geliyor. <br>
+En iyisi bir işi bitirince hemen diğerine başlamak.
 
 
 
@@ -1004,6 +1041,14 @@ Atlas](https://www.histopathologyatlas.com/)
 ![](./media/histopathologyatlas.png)
 :::
 :::
+
+
+::: {.footer}
+[patolojiatlasi.com](https://www.patolojiatlasi.com/) [histopathologyatlas.com](https://www.histopathologyatlas.com/)
+:::
+
+
+
 
 ## 
 

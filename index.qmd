@@ -58,21 +58,21 @@ title-slide-attributes:
 ---
 
 
-{{< include dijital-patoloji-nedir.qmd >}}
+{{< include _dijital-patoloji-nedir.qmd >}}
 
-{{< include dijital-patoloji-onyargi.qmd >}}
+{{< include _dijital-patoloji-onyargi.qmd >}}
 
-{{< include ornek-vakalar.qmd >}}
+{{< include _ornek-vakalar.qmd >}}
 
-{{< include laboratuvar.qmd >}}
+{{< include _laboratuvar.qmd >}}
 
-{{< include patolog.qmd >}}
+{{< include _patolog.qmd >}}
 
-{{< include sitoloji.qmd >}}
+{{< include _sitoloji.qmd >}}
 
-{{< include baska-sefere.qmd >}}
+{{< include _baska-sefere.qmd >}}
 
-{{< include tesekkur.qmd >}}
+{{< include _tesekkur.qmd >}}
 
 
 
