@@ -1,6 +1,8 @@
 "Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar" başlıklı sunum
 
 
+https://www.serdarbalci.com/rutinde-dijital-patoloji
+
 - Rutinde Dijital Patoloji: Zorluklar ve Kolaylıklar. 27 Eylül 2023. Türk Patoloji Derneği Dijital Webinar Serisi-3 Dijital Patolojinin Rutinde Kullanımı
 
 ![](./media/dijital-patoloji-webinar-3.png)
