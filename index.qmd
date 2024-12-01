@@ -10,6 +10,7 @@ logo: "./media/Doc_Dr_Serdar_Balci_patoloji_uzmani.png"
 include-after-body: logo-hyperlink.html
 editor: source
 format: 
+  # pptx: default
   revealjs:
     scrollable: true
     theme: [default, slides.scss]
